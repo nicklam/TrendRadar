@@ -1,71 +1,71 @@
 app:
-  version_check_url: "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version"
-  show_version_update: true # 控制显示版本更新提示，改成 false 将不接受新版本提示
+ version_check_url: "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version"
+ show_version_update: true # 控制顯示版本更新提示，改成 false 將不接受新版本提示
 
 crawler:
-  request_interval: 1000 # 请求间隔(毫秒)
-  enable_crawler: true # 是否启用爬取新闻功能，false 时直接停止程序
-  use_proxy: false # 是否启用代理，false 时为关闭
-  default_proxy: "http://127.0.0.1:10086"
+ request_interval: 1000 # 請求間隔(毫秒)
+ enable_crawler: true # 是否啟用爬取新聞功能，false 時直接停止程式
+ use_proxy: false # 是否啟用代理，false 時為關閉
+ default_proxy: "http://127.0.0.1:10086"
 
-# 🔸 daily（当日汇总模式）
-#   • 推送时机：按时推送
-#   • 显示内容：当日所有匹配新闻 + 新增新闻区域
-#   • 适用场景：日报总结、全面了解当日热点趋势
+# 🔸 daily（當日匯總模式）
+# • 推播時機：準時推送
+# • 顯示內容：當日所有符合新聞 + 新增新聞區域
+# • 適用場景：日報總結、全面了解當日熱點趨勢
 #
-# 🔸 current（当前榜单模式）
-#   • 推送时机：按时推送
-#   • 显示内容：当前榜单匹配新闻 + 新增新闻区域
-#   • 适用场景：实时热点追踪、了解当前最火的内容
+# 🔸 current（目前榜單模式）
+# • 推播時機：準時推送
+# • 顯示內容：目前榜單配對新聞 + 新增新聞區域
+# • 適用場景：即時熱點追蹤、了解目前最熱門的內容
 #
-# 🔸 incremental（增量监控模式）
-#   • 推送时机：有新增才推送
-#   • 显示内容：新出现的匹配频率词新闻
-#   • 适用场景：避免重复信息干扰
+# 🔸 incremental（增量監控模式）
+# • 推送時機：有新增才推送
+# • 顯示內容：新出現的匹配頻率詞新聞
+# • 適用場景：避免重複訊息幹擾
 
 report:
-  mode: "daily" # 可选: "daily"|"incremental"|"current"
-  rank_threshold: 5 # 排名高亮阈值
+ mode: "daily" # 可選: "daily"|"incremental"|"current"
+ rank_threshold: 5 # 排名高亮閾值
 
 notification:
-  enable_notification: true # 是否启用通知功能，false 时不发送手机通知
-  message_batch_size: 4000 # 消息分批大小（字节）(这个配置别动)
-  batch_send_interval: 1 # 批次发送间隔（秒）
-  feishu_message_separator: "━━━━━━━━━━━━━━━━━━━" # feishu 消息分割线
+ enable_notification: true # 是否啟用通知功能，false 時不發送手機通知
+ message_batch_size: 4000 # 訊息分批大小（位元組）(這個配置別動)
+ batch_send_interval: 1 # 批次發送間隔（秒）
+ feishu_message_separator: "━━━━━━━━━━━━━━━━━━━" # feishu 訊息分割線
 
-  webhooks:
-    feishu_url: "" # 飞书机器人的 webhook URL
-    dingtalk_url: "" # 钉钉机器人的 webhook URL
-    wework_url: "" # 企业微信机器人的 webhook URL
-    telegram_bot_token: "" # Telegram Bot Token
-    telegram_chat_id: "" # Telegram Chat ID
+ webhooks:
+ feishu_url: "" # 飛書機器人的 webhook URL
+ dingtalk_url: "" # 釘釘機器人的 webhook URL
+ wework_url: "" # 企業微信機器人的 webhook URL
+ telegram_bot_token: "" # Telegram Bot Token
+ telegram_chat_id: "" # Telegram Chat ID
 
-# 用于让关注度更高的新闻在更前面显示，合起来是 1 就行
+# 用於讓關注度更高的新聞在更前面顯示，合起來是 1 就行
 weight:
-  rank_weight: 0.6 # 排名权重
-  frequency_weight: 0.3 # 频次权重
-  hotness_weight: 0.1 # 热度权重
+ rank_weight: 0.6 # 排名權重
+ frequency_weight: 0.3 # 頻次權重
+ hotness_weight: 0.1 # 熱度權重
 
 platforms:
-  - id: "toutiao"
-    name: "今日头条"
-  - id: "baidu"
-    name: "百度热搜"
-  - id: "wallstreetcn-hot"
-    name: "华尔街见闻"
-  - id: "thepaper"
-    name: "澎湃新闻"
-  - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
-  - id: "cls-hot"
-    name: "财联社热门"
-  - id: "ifeng"
-    name: "凤凰网"
-  - id: "tieba"
-    name: "贴吧"
-  - id: "weibo"
-    name: "微博"
-  - id: "douyin"
-    name: "抖音"
-  - id: "zhihu"
-    name: "知乎"
+ - id: "toutiao"
+ name: "今日頭條"
+ - id: "baidu"
+ name: "百度熱搜"
+ - id: "wallstreetcn-hot"
+ name: "華爾街見聞"
+ - id: "thepaper"
+ name: "澎湃新聞"
+ - id: "bilibili-hot-search"
+ name: "bilibili 熱搜"
+ - id: "cls-hot"
+ name: "財聯社熱門"
+ - id: "ifeng"
+ name: "鳳凰網"
+ - id: "tieba"
+ name: "貼吧"
+ - id: "weibo"
+ name: "微博"
+ - id: "douyin"
+ name: "抖音"
+ - id: "zhihu"
+ name: "知乎"
