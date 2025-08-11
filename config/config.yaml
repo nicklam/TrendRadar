@@ -48,6 +48,8 @@ weight:
 
 platforms:
  - id: "cls-hot"
- name: "財聯社熱門"
+   name: "財聯社熱門"
+ - id: "mktnews"
+   name: "MKTNews"
 
  
