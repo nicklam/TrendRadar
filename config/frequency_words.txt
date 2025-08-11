@@ -1,3 +1,20 @@
+PLTR
+Palantir
+Oracle
+ORCL
+Cadence
+CDNS
+ASML
+ARM
+Constellation Energy
+CEG
+Vertiv
+VRT
+QUALCOMM 
+QCOM
+
+Telsa
+TSLA
 特斯拉
 马斯克
 
@@ -22,21 +39,9 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
-!gai
-人工智能
-
 自动驾驶
-
 机器人
-
-国产
-中国
 
 美国
 日本
@@ -49,10 +54,6 @@ ai
 
 核能
 
-水电站
-雅鲁藏布江
-
-新质生产力
 
 月球
 登月
