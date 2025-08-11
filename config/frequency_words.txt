@@ -21,6 +21,7 @@ TSLA
 微软
 Microsoft
 
+NVDA
 英伟达
 NVIDIA
 黄仁勋
