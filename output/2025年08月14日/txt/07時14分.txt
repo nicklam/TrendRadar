@@ -1,0 +1,33 @@
+wallstreetcn-hot | 華爾街見聞
+1. 华尔街见闻早餐FM-Radio | 2025年8月13日 [URL:https://wallstreetcn.com/articles/3753195]
+2. 通胀数据巩固降息预期，纳指标普创新高，美股小盘股指数涨3%，以太坊大涨9% [URL:https://wallstreetcn.com/articles/3753127]
+3. 中国7月新增社融1.16万亿元，人民币贷款减少500亿元，M2-M1剪刀差缩小 [URL:https://wallstreetcn.com/articles/3753238]
+4. 腾讯Q2净利润同比增长17%超预期，营收增长15%，AI驱动营销服务收入增长20% | 财报见闻 [URL:https://wallstreetcn.com/articles/3753237]
+5. 放量，大涨！沪指突破“924”高点，全市场成交破2万亿，AI硬件、医药爆发，恒科指创三个月最大涨幅，科网股普涨 [URL:https://wallstreetcn.com/articles/3753209]
+6. 新统计局长建议暂停“非农”发布，白宫拒绝但希望改进数据，因“特朗普不希望大幅修正” [URL:https://wallstreetcn.com/articles/3753184]
+7. 腾讯Q2电话会：拥有足够芯片用于AI训练和模型升级，在AI推理芯片方面有多种选择 [URL:https://wallstreetcn.com/articles/3753259]
+8. 罕见“坚定看空”的大行，瑞银：看空美国经济、看空美元、看空美股 [URL:https://wallstreetcn.com/articles/3753221]
+9. 贝森特：美国利率水平应比当前低150到175个基点，对美联储主席人选“广撒网”至11位 [URL:https://wallstreetcn.com/articles/3753246]
+10. 财政部：个人消费贷贴息政策为中央层面首次实施，可称为该领域的又一次“国补” [URL:https://wallstreetcn.com/articles/3753212]
+
+cls-hot | 財聯社熱門
+1. 7月金融数据出炉：M1-M2剪刀差明显收窄 因季节等因素信贷数据略有波动 [URL:https://www.cls.cn/detail/2114192]
+2. 押中OpenAI后 黄仁勋等待中国具身智能的“GPT时刻” [URL:https://www.cls.cn/detail/2114269]
+3. 两部门征求意见：辅助驾驶不能当自动驾驶！未经备案OTA不得升级 [URL:https://www.cls.cn/detail/2114348]
+4. 【每日收评】沪指高开高走创近4年新高！ 两市成交额突破2.1万亿，算力硬件股强者恒强 [URL:https://www.cls.cn/detail/2114095]
+5. 仅限6小时！财联社VIP秒杀返场直降25% 锁定A股前沿风口 [URL:https://www.cls.cn/detail/2114114]
+6. 【焦点复盘】AI硬件、机器人等科技股合力做多，创业板指放量涨逾3%，两市成交时隔114日再上2万亿 [URL:https://www.cls.cn/detail/2114203]
+7. 【数据看盘】IC、IM期指空头大幅加仓 多只个股获北向资金买卖 [URL:https://www.cls.cn/detail/2114217]
+8. 美股收盘：标普、纳指再创历史新高 腾讯大涨点燃中概股交易激情 [URL:https://www.cls.cn/detail/2114597]
+9. 银行“反内卷”对金融数据有何影响？权威专家：产生“挤水分”效应，资金循环更加顺畅 [URL:https://www.cls.cn/detail/2114187]
+10. 券商年内关停逾百家网点，线下营业部告别黄金时代了？ [URL:https://www.cls.cn/detail/2114467]
+11. AI教父辛顿：人类无法控制AI，唯一的生存之道或是培养“共情”能力 [URL:https://www.cls.cn/detail/2114311]
+12. 前7个月新增社融23.99万亿元，新增贷款12.87万亿元，7月末M2同比增长8.8% [URL:https://www.cls.cn/detail/2114144]
+13. 美财长贝森特：美联储9月降息几成定局，甚至有很大可能降息50个基点 [URL:https://www.cls.cn/detail/2114528]
+
+mktnews | MKTNews
+1. STRATEGY: WE HOLD $77.2 BILLION OF $BTC. ALL TIME HIGH [URL:https://mktnews.net/flashDetail.html?id=0198a50f-f1af-7dd5-928c-d19d1f64bc63]
+2. AI STARTUP PERPLEXITY IS RAISING MORE MONEY AT A $20 BILLION VALUATION - BUSINESS INSIDER [URL:https://mktnews.net/flashDetail.html?id=0198a4dc-fdb0-7dd5-928b-f77b29c43055]
+3. <b>THE GOOGLE STORE BANS ALL CRYPTOCURRENCY WALLETS IN JURISDICTIONS SUCH AS THE US AND EU UNLESS THEY OBTAIN FEDERAL LICENSES: THE RAGE</b> [URL:https://mktnews.net/flashDetail.html?id=0198a4b0-9992-7dd5-928b-6b4c0eb2bffa]
+4. APPLE PLOTS EXPANSION INTO AI ROBOTS, HOME SECURITY AND SMART DISPLAYS [URL:https://mktnews.net/flashDetail.html?id=0198a4a7-fb3c-7dd5-928b-38f9c8a072bf]
+
