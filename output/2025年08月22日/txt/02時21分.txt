@@ -1,0 +1,35 @@
+wallstreetcn-hot | 華爾街見聞
+1. 华尔街见闻早餐FM-Radio | 2025年8月21日 [URL:https://wallstreetcn.com/articles/3753764]
+2. “逐步蚕食”美联储！特朗普要求理事Lisa Cook辞职，Cook拒绝 [URL:https://wallstreetcn.com/articles/3753752]
+3. DeepSeek-V3.1正式发布，混合推理架构加持，针对下一代国产芯片设计 [URL:https://wallstreetcn.com/articles/3753798]
+4. 科技股探底反弹，纳指仍跌近0.7%，道指惊险收涨，黄金、原油、加密货币齐反弹 [URL:https://wallstreetcn.com/articles/3753708]
+5. 制造业PMI创三年新高，美债收益率和美元齐升，美股三大指数跌幅收窄 [URL:https://wallstreetcn.com/articles/3753806]
+6. 杰克逊霍尔会议最全指引：鲍威尔讲话前你必须知道的一切 [URL:https://wallstreetcn.com/articles/3753790]
+7. 霍华德·马克斯：美股处于泡沫的“早期阶段”，尽管回调的关键点尚未到来 [URL:https://wallstreetcn.com/articles/3753779]
+8. AH股午后回落，沪指冲高回落仅涨0.1%，高位股集体大跌，恒科指跌近1%，老铺黄金跌4%，国债反弹，商品分化 [URL:https://wallstreetcn.com/articles/3753780]
+9. 高盛：大量“存量资金”尚未入市，中国股市仍有上涨空间，看好中小盘股表现 [URL:https://wallstreetcn.com/articles/3753795]
+10. 纳指两连跌，科技股遭遇“获利了结”，Palantir“六连跌”成“做空焦点” [URL:https://wallstreetcn.com/articles/3753768]
+
+cls-hot | 財聯社熱門
+1. 国家将于近期开展中央冻猪肉储备收储 [URL:https://www.cls.cn/detail/2122105]
+2. 【数据看盘】机构减仓数字货币概念股 机器人概念股遭游资甩卖 [URL:https://www.cls.cn/detail/2121969]
+3. 达梦数据三天两公告，公司总经理及一位副总经理先后被立案调查 [URL:https://www.cls.cn/detail/2122145]
+4. 美欧达成贸易协议框架 美国预计数周内减免对欧汽车关税 [URL:https://www.cls.cn/detail/2122214]
+5. R2没等来，DeepSeek V3.1模型发布：价格涨了，智能体能力加强 [URL:https://www.cls.cn/detail/2122276]
+6. 【焦点复盘】沪指缩量十字星续创10年新高，两市成交额连续7日站上2万亿，科技股内部延续高低切换 [URL:https://www.cls.cn/detail/2121907]
+7. 追平历史纪录！A股7连破“2万亿”，历史镜鉴：彼时涨了哪些板块？ [URL:https://www.cls.cn/detail/2121909]
+8. 美国与欧盟发表联合声明 双方已就贸易协定框架达成一致 [URL:https://www.cls.cn/detail/2122128]
+9. 屏息以待杰克逊霍尔 科技股维持回调步伐 | 今夜看点 [URL:https://www.cls.cn/detail/2122229]
+10. 日本多地检出“永久性化学物” [URL:https://www.cls.cn/detail/2122191]
+11. 中药饮片集采重塑市场 龙头企业加速布局引发“并购潮” 与“种地热” |行业动态 [URL:https://www.cls.cn/detail/2121999]
+12. 【明日主题前瞻】全球首例万台具身智能人形机器人订单诞生 [URL:https://www.cls.cn/detail/2121854]
+13. 突发！200亿信创概念股董事兼高级副总经理被立案调查|盘后公告集锦 [URL:https://www.cls.cn/detail/2122220]
+
+mktnews | MKTNews
+1. ANTHROPIC IN TALKS TO RAISE UP TO $10 BILLION IN NEW FUNDING [URL:https://mktnews.net/flashDetail.html?id=0198cda4-2288-799d-bcca-0cea9e408973]
+2. DEEPSEEK: UE8M0 FP8 DESIGNED FOR UPCOMING NEXT-GENERATION DOMESTIC CHIPS [URL:https://mktnews.net/flashDetail.html?id=0198cba9-994f-7aa2-9e0e-9c60180da0e4]
+3. ARCHINA: BY AUGUST 2025, 20 EMBATTLED CHINESE DEVELOPERS APPROVED FOR DEBT RESTRUCTURING, TOTALING OVER 1.2 TRILLION YUAN [URL:https://mktnews.net/flashDetail.html?id=0198cb98-2df7-7aa2-9e0e-5ef64bd3373e]
+4. CHINESE YUAN BEARISH BETS HIT HIGHEST SINCE MAY 15 - POLL [URL:https://mktnews.net/flashDetail.html?id=0198cb7c-e74d-7aa2-9e0d-fd2f637ff24e]
+5. DEEPSEEK: DEEPSEEK-V3.1 RELEASED - STATEMENT [URL:https://mktnews.net/flashDetail.html?id=0198cb5d-27cb-7aa2-9e0d-41860f266968]
+6. ALIBABA'S SUBSIDIARY EBANMA, WHICH DEVELOPS AI INTELLIGENT COCKPITS FOR AUTOMOBILES, WILL BE INDEPENDENTLY LISTED ON MAIN BOARD OF HONG KONG STOCK EXCHANGE [URL:https://mktnews.net/flashDetail.html?id=0198cb35-d048-7aa2-9e0c-9c427ed7a5ad]
+
