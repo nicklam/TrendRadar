@@ -1,0 +1,37 @@
+wallstreetcn-hot | 華爾街見聞
+1. 科技股探底反弹，纳指仍跌近0.7%，道指惊险收涨，黄金、原油、加密货币齐反弹 [URL:https://wallstreetcn.com/articles/3753708]
+2. 华尔街见闻早餐FM-Radio | 2025年8月21日 [URL:https://wallstreetcn.com/articles/3753764]
+3. 美联储7月会议纪要：多数人认为通胀比就业风险高，担心美债市场脆弱，关注稳定币影响 [URL:https://wallstreetcn.com/articles/3753761]
+4. “逐步蚕食”美联储！特朗普要求理事Lisa Cook辞职，Cook拒绝 [URL:https://wallstreetcn.com/articles/3753752]
+5. DeepSeek-V3.1正式发布，混合推理架构加持，针对下一代国产芯片设计 [URL:https://wallstreetcn.com/articles/3753798]
+6. AH股午后回落，沪指冲高回落仅涨0.1%，高位股集体大跌，恒科指跌近1%，老铺黄金跌4%，国债反弹，商品分化 [URL:https://wallstreetcn.com/articles/3753780]
+7. 霍华德·马克斯：美股处于泡沫的“早期阶段”，尽管回调的关键点尚未到来 [URL:https://wallstreetcn.com/articles/3753779]
+8. 高盛：大量“存量资金”尚未入市，中国股市仍有上涨空间，看好中小盘股表现 [URL:https://wallstreetcn.com/articles/3753795]
+9. 谷歌年度硬件盛会组合拳：Pixel 10全面融入Gemini AI，手表和耳机也“进化” [URL:https://wallstreetcn.com/articles/3753760]
+10. 纳指两连跌，科技股遭遇“获利了结”，Palantir“六连跌”成“做空焦点” [URL:https://wallstreetcn.com/articles/3753768]
+
+cls-hot | 財聯社熱門
+1. DeepSeek新版本，针对下一代国产芯片做了优化 [URL:https://www.cls.cn/detail/2121646]
+2. 中国月度用电量首破万亿大关 全球属首次 [URL:https://www.cls.cn/detail/2121667]
+3. 7大理事+12位地区联储主席！特朗普真能“一统”美联储？ [URL:https://www.cls.cn/detail/2121543]
+4. 四部门：推动人工智能技术在耳与听力健康领域应用 [URL:https://www.cls.cn/detail/2121563]
+5. 国家将于近期开展中央冻猪肉储备收储 [URL:https://www.cls.cn/detail/2122105]
+6. 【数据看盘】机构减仓数字货币概念股 机器人概念股遭游资甩卖 [URL:https://www.cls.cn/detail/2121969]
+7. 美国可能对委内瑞拉动武 外交部表态 [URL:https://www.cls.cn/detail/2121760]
+8. 【每日收评】三大指数震荡分化涨跌不一，数字货币概念集体活跃，高位人气股再遭重创 [URL:https://www.cls.cn/detail/2121851]
+9. 【焦点复盘】沪指缩量十字星续创10年新高，两市成交额连续7日站上2万亿，科技股内部延续高低切换 [URL:https://www.cls.cn/detail/2121907]
+10. 追平历史纪录！A股7连破“2万亿”，历史镜鉴：彼时涨了哪些板块？ [URL:https://www.cls.cn/detail/2121909]
+11. 美国与欧盟发表联合声明 双方已就贸易协定框架达成一致 [URL:https://www.cls.cn/detail/2122128]
+12. 超越日本，中国成为亚洲最大ETF市场，三大因素继续推动高增长 [URL:https://www.cls.cn/detail/2121782]
+13. 达梦数据三天两公告，公司总经理及一位副总经理先后被立案调查 [URL:https://www.cls.cn/detail/2122145]
+
+mktnews | MKTNews
+1. DEEPSEEK: UE8M0 FP8 DESIGNED FOR UPCOMING NEXT-GENERATION DOMESTIC CHIPS [URL:https://mktnews.net/flashDetail.html?id=0198cba9-994f-7aa2-9e0e-9c60180da0e4]
+2. ARCHINA: BY AUGUST 2025, 20 EMBATTLED CHINESE DEVELOPERS APPROVED FOR DEBT RESTRUCTURING, TOTALING OVER 1.2 TRILLION YUAN [URL:https://mktnews.net/flashDetail.html?id=0198cb98-2df7-7aa2-9e0e-5ef64bd3373e]
+3. CHINESE YUAN BEARISH BETS HIT HIGHEST SINCE MAY 15 - POLL [URL:https://mktnews.net/flashDetail.html?id=0198cb7c-e74d-7aa2-9e0d-fd2f637ff24e]
+4. DEEPSEEK: DEEPSEEK-V3.1 RELEASED - STATEMENT [URL:https://mktnews.net/flashDetail.html?id=0198cb5d-27cb-7aa2-9e0d-41860f266968]
+5. ALIBABA'S SUBSIDIARY EBANMA, WHICH DEVELOPS AI INTELLIGENT COCKPITS FOR AUTOMOBILES, WILL BE INDEPENDENTLY LISTED ON MAIN BOARD OF HONG KONG STOCK EXCHANGE [URL:https://mktnews.net/flashDetail.html?id=0198cb35-d048-7aa2-9e0c-9c427ed7a5ad]
+6. Chinese cities target 70% AI chip self-sufficiency to counter Nvidia [URL:https://mktnews.net/flashDetail.html?id=0198ca90-1d21-7aa2-9e0b-63e38e6c9bfd]
+7. BITCOIN AND ETHER ETFS DEBUT IN HONG KONG AFTER UNVEILING OF STABLECOIN RULES-SCMP [URL:https://mktnews.net/flashDetail.html?id=0198ca8e-30f3-7aa2-9e0b-58ad867f7216]
+8. Chinese ‘dim sum’ bond issuance on track for record year [URL:https://mktnews.net/flashDetail.html?id=0198ca7a-f9cf-7aa2-9e0b-33ab3a34ecea]
+
