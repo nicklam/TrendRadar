@@ -1,0 +1,31 @@
+wallstreetcn-hot | 華爾街見聞
+1. 上海发布楼市“沪六条”：外环外符合条件不限套数，单身买房视同家庭，住房公积金可“付首付” [URL:https://wallstreetcn.com/articles/3754029]
+2. 美股反弹一日游，三大股指回落，原油四连涨，人民币一个月新高，以太坊下挫 [URL:https://wallstreetcn.com/articles/3754043]
+3. A股放量大涨，沪指逼近3900点，两市成交超3万亿历史第二，寒武纪再涨超10%，国债、商品全线大涨 [URL:https://wallstreetcn.com/articles/3754019]
+4. 马斯克成立新公司「巨硬」：用AI把微软产品重做一遍 [URL:https://wallstreetcn.com/articles/3754022]
+5. 英伟达机器人新“大脑”来了！Jetson Thor AI算力提高6.5倍，解锁物理AI实时推理 [URL:https://wallstreetcn.com/articles/3754094]
+6. 拼多多电话会全文：不认为这个季度利润可以持续，甘于牺牲短期利润，长期坚持反哺生态 [URL:https://wallstreetcn.com/articles/3754076]
+7. 华尔街见闻早餐FM-Radio | 2025年8月26日 [URL:https://wallstreetcn.com/articles/3754098]
+8. 周末刷屏！上调寒武纪目标价至1835，高盛是怎么算的？ [URL:https://wallstreetcn.com/articles/3754017]
+9. 美联储9月降息稳了？还有两份重磅数据可能颠覆预期 [URL:https://wallstreetcn.com/articles/3754032]
+10. 拼多多Q2营收增速放缓至7%，净利润降幅收窄至4%好于预期，营销费仅增长4.5% | 财报见闻 [URL:https://wallstreetcn.com/articles/3754062]
+
+cls-hot | 財聯社熱門
+1. 【早报】英伟达官宣机器人“新大脑”；中办、国办发文，事关全国碳市场建设 [URL:https://www.cls.cn/detail/2125471]
+2. 美股收盘：鲍威尔讲话余温消退 三大指数集体收跌 [URL:https://www.cls.cn/detail/2125450]
+3. 想见金正恩、考虑从韩国买船 特朗普见李在明都说了啥？一文了解 [URL:https://www.cls.cn/detail/2125481]
+4. 英特尔只是一个开始！ 特朗普：将会持有更多企业股份 [URL:https://www.cls.cn/detail/2125324]
+5. 【数读IPO】今日1只新股申购，机器人概念添“新丁” [URL:https://www.cls.cn/detail/2125476]
+6. 华夏幸福半年报亏损68亿引董事会分歧 平安系董事投下反对票 [URL:https://www.cls.cn/detail/2125469]
+7. 字节跳动、阿里AI“大将”出走 大模型厂商中高层流动持续 [URL:https://www.cls.cn/detail/2125290]
+8. 马来西亚发布首款人工智能芯片 进军全球前沿科技赛道 [URL:https://www.cls.cn/detail/2125384]
+9. 马斯克起诉苹果与OpenAI 英特尔发风险警告 | 环球市场 [URL:https://www.cls.cn/detail/2125465]
+10. 英特尔警告：美政府入股恐构成风险 持股比例或升至15% [URL:https://www.cls.cn/detail/2125441]
+11. 特朗普打压美联储理事 萨默斯警告：或动摇市场根基 [URL:https://www.cls.cn/detail/2125428]
+12. 8月26日投资避雷针：芯原股份六名股东拟折价33.4%转让5%公司股份 [URL:https://www.cls.cn/detail/2125519]
+13. 德国运动品牌彪马上演股价狂飙！皮诺家族或谋划出售股份 [URL:https://www.cls.cn/detail/2125373]
+
+mktnews | MKTNews
+1. <b>NVIDIA BLACKWELL-POWERED JETSON THOR NOW AVAILABLE, ACCELERATING THE AGE OF GENERAL ROBOTICS</b> [URL:https://mktnews.net/flashDetail.html?id=0198e1be-c8da-799d-bcea-d53922e4687b]
+2. ELON MUSK’S XAI FILES LAWSUIT AGAINST APPLE AND OPENAI IN TEXAS OVER ALLEGED ANTITRUST VIOLATIONS [URL:https://mktnews.net/flashDetail.html?id=0198e1bb-aab9-799d-bcea-b14a53b5a295]
+
