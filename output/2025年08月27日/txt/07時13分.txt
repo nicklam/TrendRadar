@@ -1,0 +1,33 @@
+wallstreetcn-hot | 華爾街見聞
+1. 华尔街见闻早餐FM-Radio | 2025年8月26日 [URL:https://wallstreetcn.com/articles/3754098]
+2. 历史第一次！特朗普“开除”现任美联储理事，“掌控美联储”计划迈出又一步 [URL:https://wallstreetcn.com/articles/3754118]
+3. 英伟达机器人新“大脑”来了！Jetson Thor AI算力提高6.5倍，解锁物理AI实时推理 [URL:https://wallstreetcn.com/articles/3754094]
+4. 云端业务引爆增长，寒武纪上半年营收飙升43倍，净利润扭亏为盈，章建平没卖 | 财报见闻 [URL:https://wallstreetcn.com/articles/3754199]
+5. 国务院“人工智能+”行动意见：聚焦AI芯片攻坚与软件生态培育，力推智能汽车等终端发展 [URL:https://wallstreetcn.com/articles/3754161]
+6. 美股反弹一日游，三大股指回落，原油四连涨，人民币一个月新高，以太坊下挫 [URL:https://wallstreetcn.com/articles/3754043]
+7. 法国政治动荡叠加美联储风波，美股开盘小幅走低，欧股普跌，长债跌幅扩大，美元收窄部分跌幅 [URL:https://wallstreetcn.com/articles/3754149]
+8. A股尾盘跌势加快，成交额连续10日破2万亿，AI芯片、稀土集体调整，B股跌超4%，国债反弹，商品下跌 [URL:https://wallstreetcn.com/articles/3754128]
+9. 关系全市场的大问题！大摩预判：英伟达财报指引可能保守！因为中国销售的不确定性 [URL:https://wallstreetcn.com/articles/3754126]
+10. 创新高后“闪崩”，巨鲸“切换”，华尔街“抄底”？过去48小时，比特币和以太坊“惊天巨震” [URL:https://wallstreetcn.com/articles/3754143]
+
+cls-hot | 財聯社熱門
+1. 寒武纪上半年营收大增43倍，净利润同比扭亏 [URL:https://www.cls.cn/detail/2126670]
+2. 李强：必须把加快服务贸易创新发展摆在更加重要的位置 [URL:https://www.cls.cn/detail/2126492]
+3. 事关房地产反洗钱！两部门发布管理办法 [URL:https://www.cls.cn/detail/2126620]
+4. 美股三大期指集体走低 特朗普风暴再扰美联储 | 今夜看点 [URL:https://www.cls.cn/detail/2126561]
+5. 当前有哪些低位绩优方向？ [URL:https://www.cls.cn/detail/2126497]
+6. 美股收盘：投资者静待英伟达财报 三大指数集体收涨 [URL:https://www.cls.cn/detail/2126835]
+7. 公募总规模首破35万亿！股基、混合基份额却降了，曾经亏本的基民越涨越赎？ [URL:https://www.cls.cn/detail/2126507]
+8. 6位自然人拍下锦龙股份3500万股，是何来头？88人报名531次出价 [URL:https://www.cls.cn/detail/2126530]
+9. 斯坦福大学最新研究：人工智能正在破坏美国年轻人的就业前景 [URL:https://www.cls.cn/detail/2126739]
+10. 目前不生产含CPO技术的芯片！7天4板光模块概念股紧急发布股价异动公告|盘后公告集锦 [URL:https://www.cls.cn/detail/2126639]
+11. 亚朵集团Q2财报：营收24.69亿，再次上调全年收入指引 [URL:https://www.cls.cn/detail/2126417]
+12. 【明日主题前瞻】华为云称将更多的资源投入到AI产业和算力产业上 [URL:https://www.cls.cn/detail/2126220]
+13. 南向资金追踪｜净流入超165亿港元 加仓两大ETF和阿里减持中芯国际 [URL:https://www.cls.cn/detail/2126343]
+
+mktnews | MKTNews
+1. TRUMP: WE WILL HAVE A MAJORITY SHORTLY ON THE FED [URL:https://mktnews.net/flashDetail.html?id=0198e7b4-82e5-799d-bd01-31cc96aee6b4]
+2. <b>RESEARCHERS ARE ALREADY LEAVING META’S NEW SUPERINTELLIGENCE LAB - WIRED</b> [URL:https://mktnews.net/flashDetail.html?id=0198e797-084a-799d-bcff-fc78ddf43a10]
+3. GOOGLE UNVEILS GEMINI 2.5 FLASH IMAGE MODEL [URL:https://mktnews.net/flashDetail.html?id=0198e6f8-b713-799d-bcfd-a551aeeb74e3]
+4. APPLE HAS INTERNALLY DISCUSSED POSSIBLE ACQUISITIONS OF MISTRAL AND PERPLEXITY- THE INFORMATION [URL:https://mktnews.net/flashDetail.html?id=0198e6ae-e9b7-799d-bcfd-200d5ff1039c]
+
