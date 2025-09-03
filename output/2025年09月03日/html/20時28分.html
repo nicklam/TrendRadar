@@ -1,0 +1,569 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>熱點新聞分析</title>
+        <style>
+            * { box-sizing: border-box; }
+            body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+                margin: 0; 
+                padding: 16px; 
+                background: #fafafa;
+                color: #333;
+                line-height: 1.5;
+            }
+            
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+            }
+            
+            .header {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                color: white;
+                padding: 32px 24px;
+                text-align: center;
+            }
+            
+            .header-title {
+                font-size: 22px;
+                font-weight: 700;
+                margin: 0 0 20px 0;
+            }
+            
+            .header-info {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 16px;
+                font-size: 14px;
+                opacity: 0.95;
+            }
+            
+            .info-item {
+                text-align: center;
+            }
+            
+            .info-label {
+                display: block;
+                font-size: 12px;
+                opacity: 0.8;
+                margin-bottom: 4px;
+            }
+            
+            .info-value {
+                font-weight: 600;
+                font-size: 16px;
+            }
+            
+            .content {
+                padding: 24px;
+            }
+            
+            .word-group {
+                margin-bottom: 40px;
+            }
+            
+            .word-group:first-child {
+                margin-top: 0;
+            }
+            
+            .word-header {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 20px;
+                padding-bottom: 8px;
+                border-bottom: 1px solid #f0f0f0;
+            }
+            
+            .word-info {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+            
+            .word-name {
+                font-size: 17px;
+                font-weight: 600;
+                color: #1a1a1a;
+            }
+            
+            .word-count {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+            }
+            
+            .word-count.hot { color: #dc2626; font-weight: 600; }
+            .word-count.warm { color: #ea580c; font-weight: 600; }
+            
+            .word-index {
+                color: #999;
+                font-size: 12px;
+            }
+            
+            .news-item {
+                margin-bottom: 20px;
+                padding: 16px 0;
+                border-bottom: 1px solid #f5f5f5;
+                position: relative;
+                display: flex;
+                gap: 12px;
+                align-items: center;
+            }
+            
+            .news-item:last-child {
+                border-bottom: none;
+            }
+            
+            .news-item.new::after {
+                content: "NEW";
+                position: absolute;
+                top: 12px;
+                right: 0;
+                background: #fbbf24;
+                color: #92400e;
+                font-size: 9px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 4px;
+                letter-spacing: 0.5px;
+            }
+            
+            .news-number {
+                color: #999;
+                font-size: 13px;
+                font-weight: 600;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 24px;
+                height: 24px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                align-self: flex-start;
+                margin-top: 8px;
+            }
+            
+            .news-content {
+                flex: 1;
+                min-width: 0;
+                padding-right: 40px;
+            }
+            
+            .news-item.new .news-content {
+                padding-right: 50px;
+            }
+            
+            .news-header {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                margin-bottom: 8px;
+                flex-wrap: wrap;
+            }
+            
+            .source-name {
+                color: #666;
+                font-size: 12px;
+                font-weight: 500;
+            }
+            
+            .rank-num {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 2px 6px;
+                border-radius: 10px;
+                min-width: 18px;
+                text-align: center;
+            }
+            
+            .rank-num.top { background: #dc2626; }
+            .rank-num.high { background: #ea580c; }
+            
+            .time-info {
+                color: #999;
+                font-size: 11px;
+            }
+            
+            .count-info {
+                color: #059669;
+                font-size: 11px;
+                font-weight: 500;
+            }
+            
+            .news-title {
+                font-size: 15px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+            
+            .news-link {
+                color: #2563eb;
+                text-decoration: none;
+            }
+            
+            .news-link:hover {
+                text-decoration: underline;
+            }
+            
+            .news-link:visited {
+                color: #7c3aed;
+            }
+            
+            .new-section {
+                margin-top: 40px;
+                padding-top: 24px;
+                border-top: 2px solid #f0f0f0;
+            }
+            
+            .new-section-title {
+                color: #1a1a1a;
+                font-size: 16px;
+                font-weight: 600;
+                margin: 0 0 20px 0;
+            }
+            
+            .new-source-group {
+                margin-bottom: 24px;
+            }
+            
+            .new-source-title {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+                margin: 0 0 12px 0;
+                padding-bottom: 6px;
+                border-bottom: 1px solid #f5f5f5;
+            }
+            
+            .new-item {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                padding: 8px 0;
+                border-bottom: 1px solid #f9f9f9;
+            }
+            
+            .new-item:last-child {
+                border-bottom: none;
+            }
+            
+            .new-item-number {
+                color: #999;
+                font-size: 12px;
+                font-weight: 600;
+                min-width: 18px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 20px;
+                height: 20px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            
+            .new-item-rank {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 8px;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+            }
+            
+            .new-item-rank.top { background: #dc2626; }
+            .new-item-rank.high { background: #ea580c; }
+            
+            .new-item-content {
+                flex: 1;
+                min-width: 0;
+            }
+            
+            .new-item-title {
+                font-size: 14px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+            
+            .error-section {
+                background: #fef2f2;
+                border: 1px solid #fecaca;
+                border-radius: 8px;
+                padding: 16px;
+                margin-bottom: 24px;
+            }
+            
+            .error-title {
+                color: #dc2626;
+                font-size: 14px;
+                font-weight: 600;
+                margin: 0 0 8px 0;
+            }
+            
+            .error-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+            
+            .error-item {
+                color: #991b1b;
+                font-size: 13px;
+                padding: 2px 0;
+                font-family: 'SF Mono', Consolas, monospace;
+            }
+            
+            @media (max-width: 480px) {
+                body { padding: 12px; }
+                .header { padding: 24px 20px; }
+                .content { padding: 20px; }
+                .header-info { grid-template-columns: 1fr; gap: 12px; }
+                .news-header { gap: 6px; }
+                .news-content { padding-right: 45px; }
+                .news-item { gap: 8px; }
+                .new-item { gap: 8px; }
+                .news-number { width: 20px; height: 20px; font-size: 12px; }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <div class="header-title">熱點新聞分析</div>
+                <div class="header-info">
+                    <div class="info-item">
+                        <span class="info-label">報告類型</span>
+                        <span class="info-value">實時分析</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">新聞總數</span>
+                        <span class="info-value">34 條</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">熱點新聞</span>
+                        <span class="info-value">13 條</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">生成時間</span>
+                        <span class="info-value">09-03 20:28</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="content">
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">ai 自动驾驶 机器人</div>
+                            <div class="word-count warm">7 條</div>
+                        </div>
+                        <div class="word-index">1/4</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">財聯社熱門</span><span class="rank-num top">3</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2134307" target="_blank" class="news-link">宇树科技公布上市时间表提振相关概念股 港股微创机器人大涨近12%</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num top">3</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=01990e91-7e47-799d-bd5d-e2ad02d2487b" target="_blank" class="news-link">CHINA&#x27;S SGE RAISES MARGIN REQUIREMENTS FROM SEPT 5: GOLD CONTRACTS TO 14% (FROM 13%), SILVER TO 17% (FROM 16%)</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num high">4</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=01990e78-a806-799d-bd5d-7174cc304aac" target="_blank" class="news-link">【Crypto Exchange Volume Tops $1.8 Trillion in August, Highest Monthly Level Since January: The Block】Crypto exchanges&#x27; monthly spot volume reached $1.86 trillion in August, the highest volume since January. The Block&#x27;s data dashboard shows that August&#x27;s spot trading volume rose 5% from July&#x27;s $1.77 trillion, marking the most substantial monthly activity since January. Among exchanges, Binance maintained the largest market share in August, with its spot trading volume rising to $737.1 billion from $706.1 billion in July — its highest level since January&#x27;s $801.1 billion. Bybit followed with $126.5 billion in August trading volume, edging out Bitget&#x27;s $126.1 billion.</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">4</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num high">5</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=01990e49-c7ea-799d-bd5c-acf0b7b347e2" target="_blank" class="news-link">【Crypto Expected to Handle a Tenth of Post-Trade Market by 2030: Citi Survey】A survey by Citi predicts that within five years, 10% of the global post-trade market turnover will be handled through stablecoins and tokenized securities, with bank-issued stablecoins expected to drive collateral efficiency, fund tokenization, and private market securities. The report, based on responses from 537 industry participants worldwide, highlights that over half of firms are piloting generative AI for post-trade processes, which ensure securities trades are verified, executed, and finalized. Citi notes that digital asset adoption has evolved from experimentation to strategic implementation since 2021, with liquidity and post-trade cost efficiencies identified as key drivers for investments in blockchain and distributed ledger technology (DLT). The report suggests DLT could significantly impact funding costs, financial resource requirements, and operating costs globally by 2028, signaling a transformative period for the post-trade industry.</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num ">6</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=01990e2d-29d2-799d-bd5c-7e884368eff9" target="_blank" class="news-link">【Crypto.com CEO Bets on Fed Rate Cut to Fuel Crypto Markets in Q4: Cointelegraph】Crypto.com CEO Kris Marszalek is confident that digital assets will be boosted in the fourth quarter of the year, primarily driven by the US central bank reducing interest rates. Marszalek said in an interview on Tuesday that he’s betting on the US Federal Reserve cutting interest rates at its Sept. 17 meeting, which is usually good for crypto as borrowing becomes cheaper and more liquidity is available for riskier investments.</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">6</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num ">10</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3754825" target="_blank" class="news-link">A股全天走势分化，创业板涨近1%，AI硬件股再度反弹，国债尾盘大幅拉升，恒指下跌0.6%，医药股逆势活跃</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">7</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num ">10</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=01990d43-67a2-799d-bd59-993f75cb6f3b" target="_blank" class="news-link">【RatingDog China Composite PMI Rises to 51.9 in August, Business Confidence Hits 5-Month High】RatingDog China Composite PMI Output Index reached 51.9 in August, marking three consecutive months of expansion and the highest reading since November 2024. Demand remained expansionary with new orders sustaining growth at relatively high levels, while new export orders, though still contracting, showed significant improvement. Business confidence hit a five-month high. Input prices continued rising while output prices remained under pressure, with overall profit margins persistently squeezed without notable improvement.</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">谷歌 google gemini deepmind</div>
+                            <div class="word-count ">2 條</div>
+                        </div>
+                        <div class="word-index">2/4</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num ">7</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3754806" target="_blank" class="news-link">谷歌重大胜利！法院裁决不必出售Chrome浏览器，但将被禁止签独家合约</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num ">9</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3754842" target="_blank" class="news-link">美国30年期国债收益率再破5%，谷歌盘前涨超6%，Comex黄金期货突破3600大关</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">美国 日本 韩国</div>
+                            <div class="word-count ">2 條</div>
+                        </div>
+                        <div class="word-index">3/4</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num ">8</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3754795" target="_blank" class="news-link">美国8月ISM制造业PMI连续六个月萎缩，新订单改善，价格指数再回落</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">財聯社熱門</span><span class="rank-num ">9</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2134325" target="_blank" class="news-link">特朗普引发全球资金“大轮转”！私募巨头：亚洲和中东投资者正避开美国</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">科技</div>
+                            <div class="word-count ">2 條</div>
+                        </div>
+                        <div class="word-index">4/4</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num top">1</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3754758" target="_blank" class="news-link">债市抛售引发连锁反应，科技股领跌，纳指4月来首度跌破50日均线，黄金创历史新高</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">財聯社熱門</span><span class="rank-num ">10</span><span class="time-info">20時28分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2134754" target="_blank" class="news-link">【数据看盘】机构活跃度大幅下降 三家实力游资超5亿抢筹岩山科技</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="new-section">
+                    <div class="new-section-title">本次新增熱點 (共 2 條)</div>
+                    <div class="new-source-group">
+                        <div class="new-source-title">華爾街見聞 · 1條</div>
+                        <div class="new-item">
+                            <div class="new-item-number">1</div>
+                            <div class="new-item-rank ">9</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://wallstreetcn.com/articles/3754842" target="_blank" class="news-link">美国30年期国债收益率再破5%，谷歌盘前涨超6%，Comex黄金期货突破3600大关</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="new-source-group">
+                        <div class="new-source-title">財聯社熱門 · 1條</div>
+                        <div class="new-item">
+                            <div class="new-item-number">1</div>
+                            <div class="new-item-rank ">10</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://www.cls.cn/detail/2134754" target="_blank" class="news-link">【数据看盘】机构活跃度大幅下降 三家实力游资超5亿抢筹岩山科技</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+    
