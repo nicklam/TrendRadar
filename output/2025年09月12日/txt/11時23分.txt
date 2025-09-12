@@ -1,0 +1,38 @@
+wallstreetcn-hot | 華爾街見聞
+1. 三大美股指齐创新高，中概大反弹，阿里巴巴涨8%，甲骨文下挫，Circle涨18% [URL:https://wallstreetcn.com/articles/3755399]
+2. 通胀基本符合预期，美国8月CPI同比上涨2.9%，环比升至0.4% [URL:https://wallstreetcn.com/articles/3755424]
+3. 和高盛相反！大摩：光模块是时候“获利了结”了 [URL:https://wallstreetcn.com/articles/3755411]
+4. 华尔街见闻早餐FM-Radio | 2025年9月12日 [URL:https://wallstreetcn.com/articles/3755434]
+5. 美联储下周降息已“板上钉钉”，今夜CPI能否敲开50基点大门？ [URL:https://wallstreetcn.com/articles/3755398]
+6. 对甲骨文“炸裂大单”的质疑：全指望OpenAI、收入都在长期、能赚钱吗、有钱建吗？ [URL:https://wallstreetcn.com/articles/3755415]
+7. 创业板暴涨超5%，AI硬件股掀涨停潮，“易中天”大涨，恒指低开高走守住26000点，创新药跌幅显著收窄 [URL:https://wallstreetcn.com/articles/3755377]
+8. 阿里DeepSeek时刻！开源新架构模型：推理快10倍、成本暴降90% [URL:https://wallstreetcn.com/articles/3755448]
+9. 连续四日创下新高！“动物精神”正在主宰全球股市 [URL:https://wallstreetcn.com/articles/3755391]
+10. 美国上周首申失业金人数26.3万人，跃升至近四年高位 [URL:https://wallstreetcn.com/articles/3755425]
+
+cls-hot | 財聯社熱門
+1. 【早报】墨西哥称计划对中国等国征收50%的关税，外交部回应；我国有望诞生一世界级金矿 [URL:https://www.cls.cn/detail/2142884]
+2. 国家发改委：加大人工智能领域金融和财政支持力度 [URL:https://www.cls.cn/detail/2142927]
+3. 美股收盘：三大指数齐创新高 阿里巴巴涨8%创近4年新高 [URL:https://www.cls.cn/detail/2142874]
+4. AI的风猛吹存储芯片：美光科技、闪迪暴拉七连阳 [URL:https://www.cls.cn/detail/2142858]
+5. 巨额订单风险重重？质疑声四起 甲骨文股价从历史高点回调逾6% [URL:https://www.cls.cn/detail/2142982]
+6. “一日首富”埃里森据传将豪掷数百亿美元 助力儿子打造媒体帝国 [URL:https://www.cls.cn/detail/2142845]
+7. 9月12日投资避雷针：7天暴涨近90% 人气股提示称仅间接持有宇树科技0.3%股权 [URL:https://www.cls.cn/detail/2142938]
+8. 罗永浩发布10万元悬赏，公开征集西贝预制菜证据 [URL:https://www.cls.cn/detail/2142917]
+9. 福建舰通过台湾海峡 赴南海相关海域开展科研试验和训练任务 [URL:https://www.cls.cn/detail/2142892]
+10. OpenAI重组谈判获关键进展 现代汽车被捕工人包机返韩 | 环球市场 [URL:https://www.cls.cn/detail/2142913]
+11. 美国电动车8月销量创纪录 特斯拉却逆势下滑 市场份额降至八年新低 [URL:https://www.cls.cn/detail/2142749]
+12. 固态电池产业进展持续加速 机构称产业化拐点在即 [URL:https://www.cls.cn/detail/2142906]
+13. 317名被捕韩国工人仅1人留下 现代汽车美国电池厂被迫延期 [URL:https://www.cls.cn/detail/2142826]
+
+mktnews | MKTNews
+1. 【OpenAI, Nvidia CEOs Set to Announce UK Data Center Investments】OpenAI and Nvidia plan to pledge support for billions of dollars in UK data center investments next week during President Donald Trump’s visit, according to people familiar with the matter. The two firms are working with London-based Nscale Global Holdings Ltd. on the project, with OpenAI expected to spend billions as part of the plan. The people said American companies across industries are preparing to announce tens of billions of dollars in UK investments during Trump’s trip. Nvidia declined to comment, while OpenAI, the White House and Nscale didn’t immediately respond. [URL:https://mktnews.net/flashDetail.html?id=01993b6b-de77-799d-bddf-ece63f77bbe5]
+2. 【Bessent, China Trade Negotiator to Meet in Madrid】Treasury Secretary Scott Bessent will meet Vice Premier He Lifeng in Madrid to discuss trade, economic and national security issues, with talks also covering TikTok’s status and efforts to combat money laundering, according to a Treasury statement cited by media. The meeting is part of Bessent’s Sept. 12-18 trip to Spain and Britain, where he is scheduled to meet his counterparts, marking another sign that discussions between the two sides are intensifying. [URL:https://mktnews.net/flashDetail.html?id=01993b6a-02fc-799d-bddf-e0ca54c0e56b]
+3. CHINA TO LAUNCH CENTRALIZED BOND LENDING ON OCT. 10 BY CCDC AND INTERBANK CENTER [URL:https://mktnews.net/flashDetail.html?id=01993b5c-22d6-799d-bddf-cdbe375a0065]
+4. SUPERMICRO BEGINS VOLUME SHIPMENTS OF NVIDIA BLACKWELL ULTRA [URL:https://mktnews.net/flashDetail.html?id=01993a64-3a99-799d-bddf-2fd904ff52be]
+5. BLACKROCK SEEKS TO TOKENIZE ETFS AFTER BITCOIN FUND BREAKTHROUGH [URL:https://mktnews.net/flashDetail.html?id=01993a03-f267-799d-bddd-c91c654981fd]
+6. ALIBABA'S QWEN: INTRODUCING QWEN3-NEXT-80B-A3B [URL:https://mktnews.net/flashDetail.html?id=019939ee-b149-799d-bddd-78aefdac725e]
+7. GOLD SURPASSES INFLATION-ADJUSTED RECORD HIGH SET IN 1980 [URL:https://mktnews.net/flashDetail.html?id=01993974-0d72-799d-bddb-c59041c81ea7]
+8. ALIBABA AND BAIDU ADOPT THEIR OWN AI CHIPS: INFORMATION [URL:https://mktnews.net/flashDetail.html?id=01993963-5547-799d-bddb-39b932f24f66]
+9. <b>GEMINI SAID TO BE EXPECTED TO CAP BASE IPO SIZE AT ABOUT $425M</b> [URL:https://mktnews.net/flashDetail.html?id=01993957-038f-799d-bdda-d84e89eb38c9]
+
