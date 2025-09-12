@@ -1,0 +1,37 @@
+wallstreetcn-hot | 華爾街見聞
+1. 华尔街见闻早餐FM-Radio | 2025年9月12日 [URL:https://wallstreetcn.com/articles/3755434]
+2. 三大美股指齐创新高，中概大反弹，阿里巴巴涨8%，甲骨文下挫，Circle涨18% [URL:https://wallstreetcn.com/articles/3755399]
+3. 中国8月新增社融2.57万亿元，新增贷款5900亿元，M2-M1剪刀差创四年新低 [URL:https://wallstreetcn.com/articles/3755480]
+4. 阿里DeepSeek时刻！开源新架构模型：推理快10倍、成本暴降90% [URL:https://wallstreetcn.com/articles/3755448]
+5. A股大牛市：真正的慢牛 [URL:https://wallstreetcn.com/articles/3755447]
+6. 事关地方政府债、以旧换新、财税改革......财政部重磅发声来了！ [URL:https://wallstreetcn.com/articles/3755476]
+7. 恒科指涨1.7%，阿里创近4年新高、百度大涨8%，创业板跌逾1%，芯片股爆发、寒武纪一度重夺“股王”宝座 [URL:https://wallstreetcn.com/articles/3755456]
+8. 质疑声四起！美国CPI“估算比例”升至36% [URL:https://wallstreetcn.com/articles/3755449]
+9. 隔夜，美国8月CPI为美联储降息“铺平道路” [URL:https://wallstreetcn.com/articles/3755451]
+10. 大摩评宁德时代：欧洲取得突破，行业地位稳固，固态电池目前是炒作，宁王将继续引领 [URL:https://wallstreetcn.com/articles/3755454]
+
+cls-hot | 財聯社熱門
+1. 东方通连续4年财务造假，拟被重罚2.29亿元，将强制退市 [URL:https://www.cls.cn/detail/2143827]
+2. 中美双方将在西班牙会谈 讨论美单边关税措施、TikTok等问题 [URL:https://www.cls.cn/detail/2143983]
+3. 国常会：支持民间资本加大新质生产力、新兴服务业、新型基础设施等领域投资 [URL:https://www.cls.cn/detail/2143902]
+4. 8月金融数据出炉：M1增速继续回升 部分企业贷款增长、个人贷款增长有所提振 [URL:https://www.cls.cn/detail/2143707]
+5. 【数据看盘】IM期指空头连续两日大幅减仓 多路资金激烈博弈芯片股 [URL:https://www.cls.cn/detail/2143767]
+6. A股“股王”短暂易主！287亿天量资金扫货“寒王”，这些热股也同获追捧 [URL:https://www.cls.cn/detail/2143775]
+7. 市场押注美联储下周降息 美股三大期指涨跌不一 | 今夜看点 [URL:https://www.cls.cn/detail/2143982]
+8. 强制退市！四年累计虚增利润逾3亿元 证监会拟对*ST东通罚款2.29亿元 [URL:https://www.cls.cn/detail/2144074]
+9. 南向资金追踪｜单周净买入608亿港元环比骤增8成 继续加仓阿里流出快手和泡泡玛特 [URL:https://www.cls.cn/detail/2143821]
+10. 【焦点复盘】创业板指震荡调整跌逾1%，AI硬件股分化加剧，有色板块多股逆势涨停 [URL:https://www.cls.cn/detail/2143756]
+11. 财政部披露化债半程“成绩单”：1年隐性债务减少近4万亿，超6成融资平台退出 [URL:https://www.cls.cn/detail/2143802]
+12. REITs新规重磅出台 2000亿市场将迎扩容！ [URL:https://www.cls.cn/detail/2143754]
+13. 前8个月新增社融26.56万亿元 新增贷款13.46万亿元 8月末M2同比增长8.8% [URL:https://www.cls.cn/detail/2143683]
+
+mktnews | MKTNews
+1. TETHER CEO PAOLO ARDOINO SAYS COMPANY IS LAUNCHING US-BASED STABLECOIN CALLED USAT [URL:https://mktnews.net/flashDetail.html?id=01993e72-8c9b-799d-bdeb-03467c4ed027]
+2. 【Apple Delays iPhone Air Launch in China Pending Regulatory Approval】Apple Inc. has delayed the launch of its new iPhone Air in mainland China due to pending regulatory approval. When pre-orders opened on Friday, Apple’s China website did not allow purchases of the thinner device, instead displaying a notice that release details would be updated once approval is granted. The company had previously scheduled pre-orders for Sept. 12 and general availability for Sept. 19, in line with the US and other markets.<br/>Unlike in the US, where eSIM technology is widely adopted, China largely relies on physical SIM cards. Because the iPhone Air’s slimmer design supports only eSIM, Apple initially limited availability to China Unicom, requiring customers to activate the device in carrier stores. The company has indicated that China Mobile and China Telecom will eventually support the model.<br/>Apple’s other new iPhones — the iPhone 17, 17 Pro, and 17 Pro Max — launched in China as planned and include physical SIM cards for the local market. [URL:https://mktnews.net/flashDetail.html?id=01993dfd-bea3-799d-bde9-8ad1977eaffe]
+3. CHINA, US TO TALK ABOUT TIK TOK, TARIFF, EXPORT CONTROL: MOFCOM [URL:https://mktnews.net/flashDetail.html?id=01993df5-c81c-799d-bde9-6ed28be97211]
+4. CHINA, US TO HOLD TALK IN SPAIN SEPT. 14-17 [URL:https://mktnews.net/flashDetail.html?id=01993df5-29f1-799d-bde9-5e24c3d085e3]
+5. CHINA CABINET MEETING: DEPLOY MEASURES TO FURTHER PROMOTE DEVELOPMENT OF PRIVATE INVESTMENT - STATE MEDIA [URL:https://mktnews.net/flashDetail.html?id=01993d9f-4fdf-799d-bde8-6b3bb12da043]
+6. CHINA FINANCE MINISTER: CAPITAL INJECTION OF 500 BLN YUAN INTO BIG COMMERCIAL BANKS WILL HELP DRIVE UP BANK LENDING OF ABOUT 6 TRLN YUAN [URL:https://mktnews.net/flashDetail.html?id=01993cca-b939-799d-bde4-e3eae2815853]
+7. CHINA FINANCE MINISTER: WILL DEEPEN FISCAL REFORMS DURING 15TH FIVE-YEAR PLAN PERIOD [URL:https://mktnews.net/flashDetail.html?id=01993cc6-64ac-799d-bde4-d1ec08e61388]
+8. 【Gemini Raises $425M in IPO, Valued at $3.33B as Crypto Market Gains Momentum】Cryptocurrency firm Gemini Space Station raised $425 million in an initial public offering (IPO) on Thursday, selling 15.2 million shares at $28 each, above the marketed range of $24 to $26, valuing the company at $3.33 billion on a non-diluted basis. The IPO proceeds were capped at $425 million despite demand exceeding available shares by over 20 times, reflecting strong investor interest. Nasdaq committed $50 million in a private placement during the IPO, and Gemini will begin trading on Nasdaq under the ticker "GEMI" on Friday. The crypto IPO market has gained momentum, with recent listings like Figure Technology's $787.5 million IPO and offerings from Circle and Bullish earlier this year. Regulatory wins and high digital asset prices have boosted the sector, though Gemini is still addressing an unresolved SEC lawsuit over its cryptocurrency asset lending program. A status report on the case is due September 15. Additionally, Tyler Winklevoss was accused of lobbying against a Commodity Futures Trading Commission nominee connected to the Trump administration. [URL:https://mktnews.net/flashDetail.html?id=01993c56-b60c-799d-bde2-974461816f42]
+
