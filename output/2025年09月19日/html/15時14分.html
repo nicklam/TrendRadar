@@ -1,0 +1,667 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>熱點新聞分析</title>
+        <style>
+            * { box-sizing: border-box; }
+            body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+                margin: 0; 
+                padding: 16px; 
+                background: #fafafa;
+                color: #333;
+                line-height: 1.5;
+            }
+            
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+            }
+            
+            .header {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                color: white;
+                padding: 32px 24px;
+                text-align: center;
+            }
+            
+            .header-title {
+                font-size: 22px;
+                font-weight: 700;
+                margin: 0 0 20px 0;
+            }
+            
+            .header-info {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 16px;
+                font-size: 14px;
+                opacity: 0.95;
+            }
+            
+            .info-item {
+                text-align: center;
+            }
+            
+            .info-label {
+                display: block;
+                font-size: 12px;
+                opacity: 0.8;
+                margin-bottom: 4px;
+            }
+            
+            .info-value {
+                font-weight: 600;
+                font-size: 16px;
+            }
+            
+            .content {
+                padding: 24px;
+            }
+            
+            .word-group {
+                margin-bottom: 40px;
+            }
+            
+            .word-group:first-child {
+                margin-top: 0;
+            }
+            
+            .word-header {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 20px;
+                padding-bottom: 8px;
+                border-bottom: 1px solid #f0f0f0;
+            }
+            
+            .word-info {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+            
+            .word-name {
+                font-size: 17px;
+                font-weight: 600;
+                color: #1a1a1a;
+            }
+            
+            .word-count {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+            }
+            
+            .word-count.hot { color: #dc2626; font-weight: 600; }
+            .word-count.warm { color: #ea580c; font-weight: 600; }
+            
+            .word-index {
+                color: #999;
+                font-size: 12px;
+            }
+            
+            .news-item {
+                margin-bottom: 20px;
+                padding: 16px 0;
+                border-bottom: 1px solid #f5f5f5;
+                position: relative;
+                display: flex;
+                gap: 12px;
+                align-items: center;
+            }
+            
+            .news-item:last-child {
+                border-bottom: none;
+            }
+            
+            .news-item.new::after {
+                content: "NEW";
+                position: absolute;
+                top: 12px;
+                right: 0;
+                background: #fbbf24;
+                color: #92400e;
+                font-size: 9px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 4px;
+                letter-spacing: 0.5px;
+            }
+            
+            .news-number {
+                color: #999;
+                font-size: 13px;
+                font-weight: 600;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 24px;
+                height: 24px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                align-self: flex-start;
+                margin-top: 8px;
+            }
+            
+            .news-content {
+                flex: 1;
+                min-width: 0;
+                padding-right: 40px;
+            }
+            
+            .news-item.new .news-content {
+                padding-right: 50px;
+            }
+            
+            .news-header {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                margin-bottom: 8px;
+                flex-wrap: wrap;
+            }
+            
+            .source-name {
+                color: #666;
+                font-size: 12px;
+                font-weight: 500;
+            }
+            
+            .rank-num {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 2px 6px;
+                border-radius: 10px;
+                min-width: 18px;
+                text-align: center;
+            }
+            
+            .rank-num.top { background: #dc2626; }
+            .rank-num.high { background: #ea580c; }
+            
+            .time-info {
+                color: #999;
+                font-size: 11px;
+            }
+            
+            .count-info {
+                color: #059669;
+                font-size: 11px;
+                font-weight: 500;
+            }
+            
+            .news-title {
+                font-size: 15px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+            
+            .news-link {
+                color: #2563eb;
+                text-decoration: none;
+            }
+            
+            .news-link:hover {
+                text-decoration: underline;
+            }
+            
+            .news-link:visited {
+                color: #7c3aed;
+            }
+            
+            .new-section {
+                margin-top: 40px;
+                padding-top: 24px;
+                border-top: 2px solid #f0f0f0;
+            }
+            
+            .new-section-title {
+                color: #1a1a1a;
+                font-size: 16px;
+                font-weight: 600;
+                margin: 0 0 20px 0;
+            }
+            
+            .new-source-group {
+                margin-bottom: 24px;
+            }
+            
+            .new-source-title {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+                margin: 0 0 12px 0;
+                padding-bottom: 6px;
+                border-bottom: 1px solid #f5f5f5;
+            }
+            
+            .new-item {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                padding: 8px 0;
+                border-bottom: 1px solid #f9f9f9;
+            }
+            
+            .new-item:last-child {
+                border-bottom: none;
+            }
+            
+            .new-item-number {
+                color: #999;
+                font-size: 12px;
+                font-weight: 600;
+                min-width: 18px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 20px;
+                height: 20px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            
+            .new-item-rank {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 8px;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+            }
+            
+            .new-item-rank.top { background: #dc2626; }
+            .new-item-rank.high { background: #ea580c; }
+            
+            .new-item-content {
+                flex: 1;
+                min-width: 0;
+            }
+            
+            .new-item-title {
+                font-size: 14px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+            
+            .error-section {
+                background: #fef2f2;
+                border: 1px solid #fecaca;
+                border-radius: 8px;
+                padding: 16px;
+                margin-bottom: 24px;
+            }
+            
+            .error-title {
+                color: #dc2626;
+                font-size: 14px;
+                font-weight: 600;
+                margin: 0 0 8px 0;
+            }
+            
+            .error-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+            
+            .error-item {
+                color: #991b1b;
+                font-size: 13px;
+                padding: 2px 0;
+                font-family: 'SF Mono', Consolas, monospace;
+            }
+            
+            @media (max-width: 480px) {
+                body { padding: 12px; }
+                .header { padding: 24px 20px; }
+                .content { padding: 20px; }
+                .header-info { grid-template-columns: 1fr; gap: 12px; }
+                .news-header { gap: 6px; }
+                .news-content { padding-right: 45px; }
+                .news-item { gap: 8px; }
+                .new-item { gap: 8px; }
+                .news-number { width: 20px; height: 20px; font-size: 12px; }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <div class="header-title">熱點新聞分析</div>
+                <div class="header-info">
+                    <div class="info-item">
+                        <span class="info-label">報告類型</span>
+                        <span class="info-value">實時分析</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">新聞總數</span>
+                        <span class="info-value">30 條</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">熱點新聞</span>
+                        <span class="info-value">17 條</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">生成時間</span>
+                        <span class="info-value">09-19 15:14</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="content">
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">NVDA 英伟达 NVIDIA 黄仁勋</div>
+                            <div class="word-count warm">6 條</div>
+                        </div>
+                        <div class="word-index">1/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num top">2</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3755849" target="_blank" class="news-link">英特尔暴涨30%！英伟达斥资50亿美元入股英特尔，联手开发PC与数据中心芯片</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">財聯社熱門</span><span class="rank-num high">4</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2149723" target="_blank" class="news-link">英伟达、英特尔CEO凌晨连线直播 黄仁勋称将为NVLink定制x86CPU 产品 何时面市仍未知</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num ">6</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3755869" target="_blank" class="news-link">黄仁勋称同英特尔协议侧重定制芯片，否认特朗普政府参与，郭明錤称台积电风险可控</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">4</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num ">6</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=01995e73-83a4-7cc5-9c45-495906164ebf" target="_blank" class="news-link">【Wall Street Hits Records as Fed Rate Cut Spurs Rally】U.S. stocks surged after the Fed’s first rate cut of 2025, with the S&amp;P 500, NASDAQ 100, Dow, and Russell 2000 all closing at record highs. Tech led the gains, boosted by Nvidia’s $5 billion investment in Intel, while bonds eased following a sharp decline in jobless claims.</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">財聯社熱門</span><span class="rank-num ">10</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2149668" target="_blank" class="news-link">英伟达50亿美元入股英特尔 英特尔产业链有望站上风口</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">6</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">財聯社熱門</span><span class="rank-num ">11</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2149680" target="_blank" class="news-link">特朗普“提醒”黄仁勋等科技界大佬：AI正在接管世界，希望是对的！</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">ai 自动驾驶 机器人</div>
+                            <div class="word-count warm">6 條</div>
+                        </div>
+                        <div class="word-index">2/6</div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num top">1</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=019960ab-f271-7cc5-9c49-3f348fa33141" target="_blank" class="news-link">【U.S. Treasury Yields Edge Up, Daly&#x27;s Speech Awaited: Pepperstone】U.S. Treasury yields rise in Asian trade, adding to an increase of global yields on Thursday. The U.S. data calendar is thin, while Mary Daly, President of the Federal Reserve Bank of San Francisco delivers a speech at AI Implications for Workforce Development and Economic Mobility event. &quot;The Fed&#x27;s &#x27;blackout&#x27; period is now at an end, meaning we&#x27;ll receive not only remarks from 2027 voter Daly this evening, but should also at some stage get a statement from Gov. Miran explaining his dissent [at Wednesday&#x27;s rate decision],&quot; says Pepperstone&#x27;s Michael Brown in a note. The two-year Treasury yield rises 1 basis point to 3.576%; the 10-year Treasury yield rises 3.1 basis points to 4.134% and the 30-year Treasury yield rises 3.8 basis points to 4.757%, according to data.</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num top">3</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=0199609a-98d7-7cc5-9c49-03622da1d298" target="_blank" class="news-link">【Tug of War Between U.S. Growth and Inflation Continues: Federated Hermes】The jury is still out on this tug of war between U.S. growth and inflation, says Federated Hermes&#x27; John Sidawi in a note. The impact of global tariffs has yet to be fully realised and the question of whether fiscal impulses will be sufficient to offset the drag of import taxes remains a large unknown, the senior portfolio manager for international fixed income says. &quot;Much to the dismay of the FX and interest rate market the direction of US monetary policy remains very clear,&quot; but it was the journey that both markets mispriced Wednesday, he says.</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num high">4</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3755815" target="_blank" class="news-link">AH股午后大跳水，创业板一度跌3%，AI硬件股活跃，恒指跌1%，科网股普跌，国债、商品齐跌</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">4</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num high">4</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=01996098-7f02-7cc5-9c48-ff04a140338e" target="_blank" class="news-link">【Ray Dalio Warns US Debt Crisis Threatens Global Monetary Order】Ray Dalio, founder of Bridgewater Associates, warned during the FutureChina Global Forum in Singapore that the accumulation of US government debt is threatening the global monetary order and potentially signaling the decline of the US empire. He highlighted that the US is overspending by 30% and needs to sell $12 trillion in debt, creating a supply-demand imbalance due to insufficient global demand for such debt. Dalio attributed this runaway credit to &quot;human nature.&quot; Ng Kok Song, founding partner of Avanda Investment Management, added that similar debt issues are affecting the UK, France, and China, but emphasized that the US has reached a critical tipping point, though the timing of a potential crisis remains uncertain.</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num high">5</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3755832" target="_blank" class="news-link">大厂“AI烧钱大战”：当下规模被低估，未来折旧被低估，最早2027年爆发价格战</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">6</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">財聯社熱門</span><span class="rank-num ">8</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2149670" target="_blank" class="news-link">华为称液冷正成为AIDC的必然选择 国内液冷市场空间广阔</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">美国 日本 韩国</div>
+                            <div class="word-count ">2 條</div>
+                        </div>
+                        <div class="word-index">3/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num ">7</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3755855" target="_blank" class="news-link">美国上周首申失业金人数大幅回落至23.1万，创近四年来最大降幅</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num ">10</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3755863" target="_blank" class="news-link">又出新招！美国政府请求“行政中止令”，寻求高院同意在诉讼期间罢免美联储理事库克</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">PLTR Palantir Oracle ORCL Cadence CDNS ASML ARM Constellation Energy CEG Vertiv VRT QUALCOMM QCOM</div>
+                            <div class="word-count ">1 條</div>
+                        </div>
+                        <div class="word-index">4/6</div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">MKTNews</span><span class="rank-num high">5</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://mktnews.net/flashDetail.html?id=0199600e-fe88-7cc5-9c47-692f75974220" target="_blank" class="news-link">【Trump’s Team Explores Government-Backed Manufacturing Boost: MAGA Steps】&lt;b&gt;President Trump’s team is considering a plan to boost U.S. manufacturing by using a $550 billion investment fund from trade negotiations with Japan to develop semiconductors, pharmaceuticals, critical minerals, energy, ships, and quantum computing, with some projects receiving preferential treatment such as expedited regulatory review&lt;/b&gt;, according to documents and people familiar with the discussions. The administration is exploring granting leases to companies for access to federal land and water, marking a new level of government involvement in reshaping manufacturing. Details are still being finalized, and plans could change, sources said. White House spokesman Kush Desai said the fund “will be key to fueling America’s next Golden Age.” Trump and Commerce Secretary Howard Lutnick have discussed building gas turbine and generic pharmaceutical facilities, new nuclear plants, and pipelines, including a joint LNG pipeline venture in Alaska with Japan, according to sources.</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">芯片 光刻机</div>
+                            <div class="word-count ">1 條</div>
+                        </div>
+                        <div class="word-index">5/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">華爾街見聞</span><span class="rank-num top">1</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3755836" target="_blank" class="news-link">芯片股力撑，美股四指数齐创历史新高，英特尔飙涨近23%，中概回落</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">科技</div>
+                            <div class="word-count ">1 條</div>
+                        </div>
+                        <div class="word-index">6/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">財聯社熱門</span><span class="rank-num top">1</span><span class="time-info">15時14分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2149885" target="_blank" class="news-link">首开股份一度逼近跌停 多家公司回应持股宇树科技情况</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="new-section">
+                    <div class="new-section-title">本次新增熱點 (共 7 條)</div>
+                    <div class="new-source-group">
+                        <div class="new-source-title">財聯社熱門 · 2條</div>
+                        <div class="new-item">
+                            <div class="new-item-number">1</div>
+                            <div class="new-item-rank ">10</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://www.cls.cn/detail/2149668" target="_blank" class="news-link">英伟达50亿美元入股英特尔 英特尔产业链有望站上风口</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="new-item">
+                            <div class="new-item-number">2</div>
+                            <div class="new-item-rank ">11</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://www.cls.cn/detail/2149680" target="_blank" class="news-link">特朗普“提醒”黄仁勋等科技界大佬：AI正在接管世界，希望是对的！</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="new-source-group">
+                        <div class="new-source-title">MKTNews · 5條</div>
+                        <div class="new-item">
+                            <div class="new-item-number">1</div>
+                            <div class="new-item-rank top">1</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://mktnews.net/flashDetail.html?id=019960ab-f271-7cc5-9c49-3f348fa33141" target="_blank" class="news-link">【U.S. Treasury Yields Edge Up, Daly&#x27;s Speech Awaited: Pepperstone】U.S. Treasury yields rise in Asian trade, adding to an increase of global yields on Thursday. The U.S. data calendar is thin, while Mary Daly, President of the Federal Reserve Bank of San Francisco delivers a speech at AI Implications for Workforce Development and Economic Mobility event. &quot;The Fed&#x27;s &#x27;blackout&#x27; period is now at an end, meaning we&#x27;ll receive not only remarks from 2027 voter Daly this evening, but should also at some stage get a statement from Gov. Miran explaining his dissent [at Wednesday&#x27;s rate decision],&quot; says Pepperstone&#x27;s Michael Brown in a note. The two-year Treasury yield rises 1 basis point to 3.576%; the 10-year Treasury yield rises 3.1 basis points to 4.134% and the 30-year Treasury yield rises 3.8 basis points to 4.757%, according to data.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="new-item">
+                            <div class="new-item-number">2</div>
+                            <div class="new-item-rank top">3</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://mktnews.net/flashDetail.html?id=0199609a-98d7-7cc5-9c49-03622da1d298" target="_blank" class="news-link">【Tug of War Between U.S. Growth and Inflation Continues: Federated Hermes】The jury is still out on this tug of war between U.S. growth and inflation, says Federated Hermes&#x27; John Sidawi in a note. The impact of global tariffs has yet to be fully realised and the question of whether fiscal impulses will be sufficient to offset the drag of import taxes remains a large unknown, the senior portfolio manager for international fixed income says. &quot;Much to the dismay of the FX and interest rate market the direction of US monetary policy remains very clear,&quot; but it was the journey that both markets mispriced Wednesday, he says.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="new-item">
+                            <div class="new-item-number">3</div>
+                            <div class="new-item-rank high">4</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://mktnews.net/flashDetail.html?id=01996098-7f02-7cc5-9c48-ff04a140338e" target="_blank" class="news-link">【Ray Dalio Warns US Debt Crisis Threatens Global Monetary Order】Ray Dalio, founder of Bridgewater Associates, warned during the FutureChina Global Forum in Singapore that the accumulation of US government debt is threatening the global monetary order and potentially signaling the decline of the US empire. He highlighted that the US is overspending by 30% and needs to sell $12 trillion in debt, creating a supply-demand imbalance due to insufficient global demand for such debt. Dalio attributed this runaway credit to &quot;human nature.&quot; Ng Kok Song, founding partner of Avanda Investment Management, added that similar debt issues are affecting the UK, France, and China, but emphasized that the US has reached a critical tipping point, though the timing of a potential crisis remains uncertain.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="new-item">
+                            <div class="new-item-number">4</div>
+                            <div class="new-item-rank high">5</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://mktnews.net/flashDetail.html?id=0199600e-fe88-7cc5-9c47-692f75974220" target="_blank" class="news-link">【Trump’s Team Explores Government-Backed Manufacturing Boost: MAGA Steps】&lt;b&gt;President Trump’s team is considering a plan to boost U.S. manufacturing by using a $550 billion investment fund from trade negotiations with Japan to develop semiconductors, pharmaceuticals, critical minerals, energy, ships, and quantum computing, with some projects receiving preferential treatment such as expedited regulatory review&lt;/b&gt;, according to documents and people familiar with the discussions. The administration is exploring granting leases to companies for access to federal land and water, marking a new level of government involvement in reshaping manufacturing. Details are still being finalized, and plans could change, sources said. White House spokesman Kush Desai said the fund “will be key to fueling America’s next Golden Age.” Trump and Commerce Secretary Howard Lutnick have discussed building gas turbine and generic pharmaceutical facilities, new nuclear plants, and pipelines, including a joint LNG pipeline venture in Alaska with Japan, according to sources.</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="new-item">
+                            <div class="new-item-number">5</div>
+                            <div class="new-item-rank ">6</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://mktnews.net/flashDetail.html?id=01995e73-83a4-7cc5-9c45-495906164ebf" target="_blank" class="news-link">【Wall Street Hits Records as Fed Rate Cut Spurs Rally】U.S. stocks surged after the Fed’s first rate cut of 2025, with the S&amp;P 500, NASDAQ 100, Dow, and Russell 2000 all closing at record highs. Tech led the gains, boosted by Nvidia’s $5 billion investment in Intel, while bonds eased following a sharp decline in jobless claims.</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+    
