@@ -1,0 +1,31 @@
+wallstreetcn-hot | 華爾街見聞
+1. 潘功胜：今日发布会不涉及短期政策调整，下一步金融改革内容将在中央统一部署后做进一步沟通 [URL:https://wallstreetcn.com/articles/3756026]
+2. 华尔街见闻早餐FM-Radio | 2025年9月22日 [URL:https://wallstreetcn.com/articles/3755957]
+3. 高盛交易员：美股如同1999年，都在交易流动性，谁还关注基本面，人们觉得“货币在贬值，拿着不如花掉” [URL:https://wallstreetcn.com/articles/3755999]
+4. 美股盘初三大股指走低，黄金股普涨，特斯拉涨近3%，加密货币走低，以太坊大跌7% [URL:https://wallstreetcn.com/articles/3756025]
+5. 握手、聊天、并肩而坐！马斯克与特朗普“闹翻后首度同框” [URL:https://wallstreetcn.com/articles/3756000]
+6. 本周重磅日程：“美联储最爱”的通胀指标，“金融三巨头”发布会，阿里云栖大会 [URL:https://wallstreetcn.com/articles/3755902]
+7. 创业板探底回升涨0.5%，科创50涨超3%，芯片、果链齐爆发，恒科指跌0.6%，百度逆势涨超3%，国债上涨 [URL:https://wallstreetcn.com/articles/3756008]
+8. 申万宏源：本轮科技行情可能在26年春节前“演绎至历史极点”，类似“2013年底的创业板”和“2017年底的食品饮料” [URL:https://wallstreetcn.com/articles/3756002]
+9. 以太坊、索拉纳领跌，币圈刚刚闪崩，把美股也拖下水 [URL:https://wallstreetcn.com/articles/3756033]
+10. 美财长称考虑“所有稳定选项”支持阿根廷，阿股汇债大涨 [URL:https://wallstreetcn.com/articles/3756048]
+
+cls-hot | 財聯社熱門
+1. 924新政这一年（市场篇）：赚钱效应激活，这一年A股究竟有何不同 [URL:https://www.cls.cn/detail/2152213]
+2. 吴清：中国资本市场的朋友圈越来越大 [URL:https://www.cls.cn/detail/2152277]
+3. 年内跑输91%个股！红利指数收盘价创今年次低，目前估值处于什么位置？ [URL:https://www.cls.cn/detail/2152269]
+4. 【数据看盘】科创50ETF上周份额大减 多路资金激烈博弈立讯精密 [URL:https://www.cls.cn/detail/2152240]
+5. 【焦点复盘】三大指数缩量企稳全线收涨，OpenAI引爆端侧硬件产业链，4400亿果链龙头罕见涨停 [URL:https://www.cls.cn/detail/2152231]
+6. 国际金价再创历史新高 减肥药生产商Metsera暴涨超60% | 今夜看点 [URL:https://www.cls.cn/detail/2152485]
+7. 924新政这一年（政策篇）：A股不是“一个人在战斗”，组合拳持续发挥合力 [URL:https://www.cls.cn/detail/2152228]
+8. DeepSeek线上模型升级 [URL:https://www.cls.cn/detail/2152541]
+9. 福建舰“上新”，西太平洋战略格局将被重塑 [URL:https://www.cls.cn/detail/2152458]
+10. 中药生产新规加速行业“洗牌”：原料质控升级 GAP基地成企业必争之地 [URL:https://www.cls.cn/detail/2152512]
+11. 国家体育总局印发《关于推动运动促进健康事业高质量发展的指导意见》 [URL:https://www.cls.cn/detail/2152251]
+12. 924新政这一年（基金篇）：公募高质量起势，重塑核心竞争力 [URL:https://www.cls.cn/detail/2152227]
+13. 现场视频来了 歼-35等三型舰载机成功在福建舰完成起降训练 [URL:https://www.cls.cn/detail/2152261]
+
+mktnews | MKTNews
+1. 【Analysts on Nvidia’s $100B OpenAI Deal】Nvidia signs $100 billion strategic partnership with OpenAI to deploy at least 10 GW of AI compute capacity. Here is what analysts say about Nvidia’s $100 billion OpenAI deal:<br/><b>Matt Britzman, Senior Equity Analyst, Hargreaves Lansdown</b>: “For Nvidia, the prize is huge — every gigawatt of AI data centre capacity is worth about <b>$50 billion</b> in revenue, meaning <b>this project could be worth as much as $500 billion</b>. By locking in OpenAI as a strategic partner and co-optimizing hardware and software roadmaps, Nvidia is ensuring its GPUs remain the backbone of next-gen AI infrastructure.”<br/><b>Jacob Bourne, Technology Analyst, eMarketer</b>: “Demand for Nvidia GPUs is effectively baked into the development of frontier AI models… It also throws cold water on the idea that rival chipmakers or in-house silicon from the Big Tech platforms are anywhere close to disrupting Nvidia's lead. For OpenAI, it signals <b>greater independence as it continues diversifying away from its Microsoft partnership</b>.”<br/><b>Anshel Sag, Principal Analyst, Moor Insights & Strategy</b>: “This strengthens the partnership… validates Nvidia's <b>long-term growth</b> numbers with so much volume and compute capacity, also enabling OpenAI to scale to even bigger customers.”<br/><b>Ben Bajarin, CEO, Creative Strategies</b>: “Really the point Nvidia was making was that it's just enabling OpenAI to meet surging demand… primarily what OpenAI runs on.” [URL:https://mktnews.net/flashDetail.html?id=01997297-9add-7cc5-9c64-48022d5372e8]
+2. OPENAI & NVIDIA TO DEPLOY 10 GIGAWATTS OF NVIDIA SYSTEMS [URL:https://mktnews.net/flashDetail.html?id=01997229-3752-7cc5-9c60-b341eeb95f46]
+
