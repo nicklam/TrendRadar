@@ -1,0 +1,32 @@
+wallstreetcn-hot | 華爾街見聞
+1. 潘功胜：今日发布会不涉及短期政策调整，下一步金融改革内容将在中央统一部署后做进一步沟通 [URL:https://wallstreetcn.com/articles/3756026]
+2. 英伟达引爆科技股行情，三大美股指齐创新高，黄金破纪录高点，加密货币大跌 [URL:https://wallstreetcn.com/articles/3756025]
+3. 华尔街见闻早餐FM-Radio | 2025年9月23日 [URL:https://wallstreetcn.com/articles/3756061]
+4. 英伟达最大手笔投资承诺！砸1000亿美元助OpenAI建10GW数据中心 [URL:https://wallstreetcn.com/articles/3756056]
+5. 创业板探底回升涨0.5%，科创50涨超3%，芯片、果链齐爆发，恒科指跌0.6%，百度逆势涨超3%，国债上涨 [URL:https://wallstreetcn.com/articles/3756008]
+6. 完美闭环：OpenAI买云→甲骨文买卡→英伟达再投资OpenAI [URL:https://wallstreetcn.com/articles/3756068]
+7. 以太坊、索拉纳领跌，币圈刚刚闪崩，把美股也拖下水 [URL:https://wallstreetcn.com/articles/3756033]
+8. 美财长称考虑“所有稳定选项”支持阿根廷，阿股汇债大涨 [URL:https://wallstreetcn.com/articles/3756048]
+9. 美联储理事米兰“首秀”：中性利率料2.5%，年内应再降息125bp，或还将投反对票 [URL:https://wallstreetcn.com/articles/3756055]
+10. 伯克希尔继续增持日本“五大商社”，巴菲特买成“主要股东” [URL:https://wallstreetcn.com/articles/3756017]
+
+cls-hot | 財聯社熱門
+1. 【早报】英伟达股价创新高！拟向OpenAI投资最高1000亿美元；潘功胜、李云泽、吴清、朱鹤新同日发声 [URL:https://www.cls.cn/detail/2152689]
+2. 美股收盘：三大股指齐创历史新高 英伟达大涨近4% [URL:https://www.cls.cn/detail/2152669]
+3. 英伟达拟向OpenAI投资最高1000亿美元 并共建10吉瓦AI数据中心 [URL:https://www.cls.cn/detail/2152645]
+4. iPhone 17掀起换机潮 韦德布什大幅上调苹果目标价至310美元 [URL:https://www.cls.cn/detail/2152623]
+5. 国际金价再创历史新高 减肥药生产商Metsera暴涨超60% | 今夜看点 [URL:https://www.cls.cn/detail/2152485]
+6. DeepSeek线上模型升级 [URL:https://www.cls.cn/detail/2152541]
+7. 9月23日投资避雷针：5连板人气股提示 光通信业务亏损 铜箔业务刚刚起步 [URL:https://www.cls.cn/detail/2152745]
+8. 被控致6名中国公民死亡、涉赌诈等 缅北白家犯罪集团主案一审开庭 [URL:https://www.cls.cn/detail/2152506]
+9. 美联储鹰风阵阵！一日之内三位官员给降息泼冷水 [URL:https://www.cls.cn/detail/2152728]
+10. 中药生产新规加速行业“洗牌”：原料质控升级 GAP基地成企业必争之地 [URL:https://www.cls.cn/detail/2152512]
+11. 芜湖集群算力平台扩容：新增六家数据中心 多家上市公司参与布局 [URL:https://www.cls.cn/detail/2152712]
+12. 【数读IPO】特斯拉朋友圈“小伙伴”今日上市 [URL:https://www.cls.cn/detail/2152698]
+13. 华尔街“崩盘猎人”：美股或重演1929 但眼下仍是奏乐起舞时 [URL:https://www.cls.cn/detail/2152575]
+
+mktnews | MKTNews
+1. ALIBABA CLOUD RELEASES OPEN-SOURCED QWEN3-OMNI, THE NATIVELY END-TO-END MULTILINGUAL OMNI-MODAL FOUNDATION MODELS, PROCESSSING TEXT, IMAGE, AUDIO AND VIDEO, AND DELIVERING REAL-TIME RESPONSE IN BOTH AND NATURAL SPEECH [URL:https://mktnews.net/flashDetail.html?id=01997446-443c-7cc5-9c67-147bc9533411]
+2. 【Analysts on Nvidia’s $100B OpenAI Deal】Nvidia signs $100 billion strategic partnership with OpenAI to deploy at least 10 GW of AI compute capacity. Here is what analysts say about Nvidia’s $100 billion OpenAI deal:<br/><b>Matt Britzman, Senior Equity Analyst, Hargreaves Lansdown</b>: “For Nvidia, the prize is huge — every gigawatt of AI data centre capacity is worth about <b>$50 billion</b> in revenue, meaning <b>this project could be worth as much as $500 billion</b>. By locking in OpenAI as a strategic partner and co-optimizing hardware and software roadmaps, Nvidia is ensuring its GPUs remain the backbone of next-gen AI infrastructure.”<br/><b>Jacob Bourne, Technology Analyst, eMarketer</b>: “Demand for Nvidia GPUs is effectively baked into the development of frontier AI models… It also throws cold water on the idea that rival chipmakers or in-house silicon from the Big Tech platforms are anywhere close to disrupting Nvidia's lead. For OpenAI, it signals <b>greater independence as it continues diversifying away from its Microsoft partnership</b>.”<br/><b>Anshel Sag, Principal Analyst, Moor Insights & Strategy</b>: “This strengthens the partnership… validates Nvidia's <b>long-term growth</b> numbers with so much volume and compute capacity, also enabling OpenAI to scale to even bigger customers.”<br/><b>Ben Bajarin, CEO, Creative Strategies</b>: “Really the point Nvidia was making was that it's just enabling OpenAI to meet surging demand… primarily what OpenAI runs on.” [URL:https://mktnews.net/flashDetail.html?id=01997297-9add-7cc5-9c64-48022d5372e8]
+3. OPENAI & NVIDIA TO DEPLOY 10 GIGAWATTS OF NVIDIA SYSTEMS [URL:https://mktnews.net/flashDetail.html?id=01997229-3752-7cc5-9c60-b341eeb95f46]
+
