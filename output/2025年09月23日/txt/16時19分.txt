@@ -1,0 +1,31 @@
+wallstreetcn-hot | 華爾街見聞
+1. 潘功胜：今日发布会不涉及短期政策调整，下一步金融改革内容将在中央统一部署后做进一步沟通 [URL:https://wallstreetcn.com/articles/3756026]
+2. 英伟达引爆科技股行情，三大美股指齐创新高，黄金破纪录高点，加密货币大跌 [URL:https://wallstreetcn.com/articles/3756025]
+3. 华尔街见闻早餐FM-Radio | 2025年9月23日 [URL:https://wallstreetcn.com/articles/3756061]
+4. 完美闭环：OpenAI买云→甲骨文买卡→英伟达再投资OpenAI [URL:https://wallstreetcn.com/articles/3756068]
+5. 英伟达最大手笔投资承诺！砸1000亿美元助OpenAI建10GW数据中心 [URL:https://wallstreetcn.com/articles/3756056]
+6. 创业板探底回升涨0.5%，科创50涨超3%，芯片、果链齐爆发，恒科指跌0.6%，百度逆势涨超3%，国债上涨 [URL:https://wallstreetcn.com/articles/3756008]
+7. 以太坊、索拉纳领跌，币圈刚刚闪崩，把美股也拖下水 [URL:https://wallstreetcn.com/articles/3756033]
+8. 美财长称考虑“所有稳定选项”支持阿根廷，阿股汇债大涨 [URL:https://wallstreetcn.com/articles/3756048]
+9. 创业板探底回升涨0.2%，半导体板块尾盘爆发，恒科指跌近2%，科网股大跌、百度跌超5%，国债、商品齐跌 [URL:https://wallstreetcn.com/articles/3756079]
+10. 美股与黄金同创新高，这意味着什么？ [URL:https://wallstreetcn.com/articles/3756073]
+
+cls-hot | 財聯社熱門
+1. 英伟达、甲骨文、OpenAI 动辄千亿的三角游戏闭环了？ [URL:https://www.cls.cn/detail/2152949]
+2. 9月23日投资避雷针：5连板人气股提示 光通信业务亏损 铜箔业务刚刚起步 [URL:https://www.cls.cn/detail/2152745]
+3. 美联储鹰风阵阵！一日之内三位官员给降息泼冷水 [URL:https://www.cls.cn/detail/2152728]
+4. 又一车企“大佬”造访华为 双方未来合作涉AI泛场景应用、具身智能等 [URL:https://www.cls.cn/detail/2153082]
+5. 八年来最大跑赢幅度！机构人士：亚洲股市将持续“力压”美股 [URL:https://www.cls.cn/detail/2152839]
+6. 半导体“通胀”再现？台积电据称将2纳米节点价格至少上调50% [URL:https://www.cls.cn/detail/2153013]
+7. 三年来最大单日流入！全球投资者竞相“扫货”黄金ETF 金价再创新高 [URL:https://www.cls.cn/detail/2153105]
+8. 上海海思创新大会将于明日举行 [URL:https://www.cls.cn/detail/2152717]
+9. 【午报】三大指数半日跌超1%，全市场近5000股飘绿，银行板块逆势走强 [URL:https://www.cls.cn/detail/2153042]
+10. 国家海洋预报台发布海浪红色警报：广东近岸海域将出现4到7米的巨浪到狂浪 [URL:https://www.cls.cn/detail/2152783]
+11. 全球首次 我国月度用电量连续两个月破万亿千瓦时 [URL:https://www.cls.cn/detail/2153207]
+12. 宁德时代成立新公司：含新能源汽车整车销售业务 [URL:https://www.cls.cn/detail/2152891]
+13. 广东发布紧急动员令 [URL:https://www.cls.cn/detail/2153048]
+
+mktnews | MKTNews
+1. 【Huawei Unveils Three-Year Vision to Challenge Nvidia's AI Dominance with Innovative Clustering and Networking Technologies】Huawei Technologies Co. has openly acknowledged that its AI chips lack the raw power and speed of Nvidia Corp.'s offerings, but it aims to compete through brute force, networking expertise, and policy support. During its annual Huawei Connect conference, Rotating Chairman Eric Xu unveiled a three-year roadmap to challenge Nvidia’s dominance, introducing next-generation AI chips and upgraded “SuperPod” designs, which link up to 15,488 Ascend AI chips using a self-developed UnifiedBus interconnect protocol. Huawei claims this technology enables data transfer speeds up to 62 times faster than Nvidia's upcoming NVLink144. Despite US restrictions cutting Huawei off from advanced chipmaking processes and key suppliers like TSMC, the company is leveraging innovative clustering techniques to bridge performance gaps. The announcement coincided with broader advancements in AI chips from Chinese firms like Alibaba and Baidu, reflecting Beijing's push to prioritize chip development amid US-China tensions. Analysts note Huawei's progress in building a resilient local semiconductor ecosystem, although its chips still lag behind Nvidia’s in performance, with the Ascend 950 offering only 6% of Nvidia’s VR200 superchip capabilities. Huawei plans to overcome these limitations by scaling chip connectivity and memory access speeds, with the Ascend 970 projected to achieve 4 terabit-per-second interconnect speeds by 2028. While challenges remain, including poor yields and restricted access to advanced equipment, Huawei remains confident in its strategy to advance China’s AI industry through clustering and networking technologies. [URL:https://mktnews.net/flashDetail.html?id=01997514-5bbf-7cc5-9c68-fd56789f6066]
+2. ALIBABA CLOUD RELEASES OPEN-SOURCED QWEN3-OMNI, THE NATIVELY END-TO-END MULTILINGUAL OMNI-MODAL FOUNDATION MODELS, PROCESSSING TEXT, IMAGE, AUDIO AND VIDEO, AND DELIVERING REAL-TIME RESPONSE IN BOTH AND NATURAL SPEECH [URL:https://mktnews.net/flashDetail.html?id=01997446-443c-7cc5-9c67-147bc9533411]
+
