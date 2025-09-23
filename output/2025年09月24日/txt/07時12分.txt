@@ -1,0 +1,34 @@
+wallstreetcn-hot | 華爾街見聞
+1. 完美闭环：OpenAI买云→甲骨文买卡→英伟达再投资OpenAI [URL:https://wallstreetcn.com/articles/3756068]
+2. 英伟达引爆科技股行情，三大美股指齐创新高，黄金破纪录高点，加密货币大跌 [URL:https://wallstreetcn.com/articles/3756025]
+3. 鲍威尔称估值偏高，三大股指涨势终结，科技股领跌，原油黄金走高 [URL:https://wallstreetcn.com/articles/3756102]
+4. 创业板探底回升涨0.2%，半导体板块尾盘爆发，恒科指跌超1%，百度跌超5%，国债、商品齐跌 [URL:https://wallstreetcn.com/articles/3756079]
+5. 美股与黄金同创新高，这意味着什么？ [URL:https://wallstreetcn.com/articles/3756073]
+6. 鲍威尔：货币政策面临“双向挑战”，没有毫无风险路径，股市估值“相当高”（附讲稿全文） [URL:https://wallstreetcn.com/articles/3756134]
+7. 芯片涨价潮来了！台积电被曝2nm价格至少上调50%，三星、SK海力士已先行涨价 [URL:https://wallstreetcn.com/articles/3756100]
+8. 尽管“观感上存在争议”，美银：英伟达对OpenAI的这笔“1000亿美元投资”会大赚3-5倍 [URL:https://wallstreetcn.com/articles/3756072]
+9. 美联储降息路径分歧加剧：鲍曼警告已“落后于形势” ，古尔斯比呼吁谨慎行事 [URL:https://wallstreetcn.com/articles/3756124]
+10. 刚刚，金价创出今年“第36个新高” [URL:https://wallstreetcn.com/articles/3756070]
+
+cls-hot | 財聯社熱門
+1. 一图看懂 | 国庆长假前后A股怎么走？数据揭示涨跌规律 [URL:https://www.cls.cn/detail/2153534]
+2. 再度停牌核查！15连板牛股天普股份月内“三进宫” [URL:https://www.cls.cn/detail/2153798]
+3. 绿捷公司涉嫌瞒报食品安全相关信息，公安机关已立案侦查，并控制相关人员 [URL:https://www.cls.cn/detail/2153772]
+4. 王毅会见美国国会众议员代表团 [URL:https://www.cls.cn/detail/2153858]
+5. 【数据看盘】IF期指多头大幅加仓 机构、外资激烈博弈三连板芯片股 [URL:https://www.cls.cn/detail/2153522]
+6. 【焦点复盘】市场尾盘现绝地反击，沪指3800点失而复得，银行板块现久违普涨反弹 [URL:https://www.cls.cn/detail/2153504]
+7. 美股收盘：AI可持续性遭质疑 三大指数集体收跌 纳指跌约1% [URL:https://www.cls.cn/detail/2153966]
+8. 基金经理涉赌被拘，又飞出损害行业形象的“黑天鹅” [URL:https://www.cls.cn/detail/2153839]
+9. 中国资产持续火热！“木头姐”豪掷2100万美元买入阿里等中概股 [URL:https://www.cls.cn/detail/2153496]
+10. 过户登记办结！智元恒岳正式入主上纬新材 [URL:https://www.cls.cn/detail/2153787]
+11. 鲍威尔罗德岛讲话来袭 国际金价又创新高 | 今夜看点 [URL:https://www.cls.cn/detail/2153751]
+12. 余额宝10年来首次降费！意味着什么？同日降费还有两货基 [URL:https://www.cls.cn/detail/2153505]
+13. 间接持有摩尔线程0.0229%股份！20CM两连板算力概念股发布股价异动公告|盘后公告集锦 [URL:https://www.cls.cn/detail/2153776]
+
+mktnews | MKTNews
+1. TETHER RAISING FUNDS AT A $500B VALUATION, LOOKING FOR $20B IN FUNDING, MAKING IT THE MOST VALUABLE PRIVATE COMPANY IN THE WORLD ALONGSIDE OPENAI [URL:https://mktnews.net/flashDetail.html?id=0199782b-509e-7cc5-9c75-f97699b5929a]
+2. OPENAI AND ORACLE TO ANNOUNCE DATA CENTER EXPANSION IN TEXAS- THE INFORMATION [URL:https://mktnews.net/flashDetail.html?id=019977b9-4d48-7cc5-9c74-53311994e13e]
+3. 【Takeaway from Powell’s Remarks at the Rhode Island Event】- <b>Fed Policy Stance</b>: Interest rates remain “<b>still modestly restrictive</b>” after the recent quarter-point cut; Fed is well-positioned to respond to evolving economic conditions.<br/>- <b>Two-Sided Risks</b>: Easing too quickly could reignite inflation; staying too restrictive could weigh on labor markets. <b>No risk-free path exists</b>.<br/>- <b>Labor Market</b>: Conditions have softened; hiring is low, particularly for new entrants, and downside risks to employment persist.<br/>- <b>Inflation Outlook</b>: Inflation remains somewhat elevated; tariff-driven price pressures are largely one-time and not a main factor. Long-run expectations remain near 2%.<br/>- <b>Economic Growth</b>: Growth has moderated; effects of major policy shifts are still unfolding; uncertainty is affecting business investment and hiring.<br/>- <b>AI and Labor</b>: AI may phase out some jobs but also create new roles; not the main driver of low hiring rates.<br/>- <b>Policy Approach</b>: Fed is using a “risk-management” approach, considering a range of plausible outcomes rather than a preset course.<br/>- <b>Political Independence</b>: Powell emphasized the Fed does <b>not take politics into account</b>; claims of political bias are “cheap shots.”<br/>- <b>Market Impact</b>: Treasury yields fell slightly; U.S. stock indexes were mostly unchanged; U.S. dollar edged up marginally. [URL:https://mktnews.net/flashDetail.html?id=019977a4-5e30-7cc5-9c74-1663bbce69c6]
+4. 【Nick Timiraos: Powell Says Rates Are "Still Modestly Restrictive"】Federal Reserve Chair Jerome Powell described the central bank’s interest-rate stance as “still modestly restrictive” following last week’s quarter-point cut, <b>suggesting potential for additional reductions if labor-market softness persists</b>. Powell emphasized two-sided risks, warning that overly rapid cuts could push inflation above the 2% target, while maintaining restrictive policy too long could soften labor markets. He highlighted one-time tariff-driven price rises and reaffirmed that recent job growth slowdown justified the Fed’s measured approach. Projections indicate some officials foresee at least two more cuts this year. Powell did not address political controversies involving Trump and the attempted removal of Fed Governor Lisa Cook. [URL:https://mktnews.net/flashDetail.html?id=0199777c-04c3-7cc5-9c72-1f9292280e36]
+5. FED’S POWELL REITERATES THERE IS NO RISK-FREE POLICY PATH AHEAD [URL:https://mktnews.net/flashDetail.html?id=0199776e-f680-7cc5-9c71-61f1535776bd]
+
