@@ -1,0 +1,35 @@
+wallstreetcn-hot | 華爾街見聞
+1. 鲍威尔：货币政策面临“双向挑战”，没有毫无风险路径，股市估值“相当高”（附讲稿全文） [URL:https://wallstreetcn.com/articles/3756134]
+2. 鲍威尔称美股估值偏高，三大股指涨势终结，科技股领跌，原油黄金走高 [URL:https://wallstreetcn.com/articles/3756102]
+3. 华尔街见闻早餐FM-Radio | 2025年9月24日 [URL:https://wallstreetcn.com/articles/3756136]
+4. 创业板探底回升涨0.2%，半导体板块尾盘爆发，恒科指跌超1%，百度跌超5%，国债、商品齐跌 [URL:https://wallstreetcn.com/articles/3756079]
+5. 直击阿里2025云栖大会！吴泳铭：资本开支会在3800亿基础上，增加更多的投入 [URL:https://wallstreetcn.com/articles/3756158]
+6. 芯片涨价潮来了！台积电被曝2nm价格至少上调50%，三星、SK海力士已先行涨价 [URL:https://wallstreetcn.com/articles/3756100]
+7. 美联储降息路径分歧加剧：鲍曼警告已“落后于形势” ，古尔斯比呼吁谨慎行事 [URL:https://wallstreetcn.com/articles/3756124]
+8. 态度剧变！特朗普称乌克兰边界有望“恢复原状” [URL:https://wallstreetcn.com/articles/3756144]
+9. 刚刚，金价创出今年“第36个新高” [URL:https://wallstreetcn.com/articles/3756070]
+10. PPI对股牛的信号 [URL:https://wallstreetcn.com/articles/3756105]
+
+cls-hot | 財聯社熱門
+1. 2025工博会解析新兴工业化 “密码”：AI+ 工业母机 机器人重构制造未来 [URL:https://www.cls.cn/detail/2153976]
+2. AI需求强劲又一力证！美光Q4销售额大增46% 业绩指引亮眼 [URL:https://www.cls.cn/detail/2154053]
+3. 阿里吴泳铭：正在推进三年3800亿AI基建计划，并将会追加更大的投入 [URL:https://www.cls.cn/detail/2154306]
+4. 特朗普立场“180度大转弯”：乌克兰有望从俄夺回领土，恢复边界！ [URL:https://www.cls.cn/detail/2154045]
+5. 董承非等投资大佬热议：A股慢牛还是过热？ 宁泉：即便有“登味”也要保持谨慎 [URL:https://www.cls.cn/detail/2154337]
+6. 美光财报会拆解半导体供需：DRAM/NAND库存下降 HBM成增长核心 [URL:https://www.cls.cn/detail/2154342]
+7. 9月24日投资避雷针：15连板天普股份月内第三次停牌核查 [URL:https://www.cls.cn/detail/2154038]
+8. 【数读IPO】背靠“三桶油”，电脱设备行业龙头今日申购 [URL:https://www.cls.cn/detail/2153986]
+9. 雷军：同时决定造车和重启造芯 押上小米全部家底 [URL:https://www.cls.cn/detail/2154276]
+10. 美股重夺全球“最昂贵”股市桂冠：估值之巅会是危墙之下吗？ [URL:https://www.cls.cn/detail/2154267]
+11. 924新政这一年：43家上市公司市值增长超千亿，“双创”成高增长摇篮 [URL:https://www.cls.cn/detail/2154110]
+12. HBM已成当下AI芯片主流选择 机构称HBM国产化势在必行 [URL:https://www.cls.cn/detail/2153995]
+13. 多重催化下半导体上游全线爆发 设备、材料环节驱动科创50大涨近5% [URL:https://www.cls.cn/detail/2154331]
+
+mktnews | MKTNews
+1. ALIBABA CLOUD UNVEILS STRATEGIC ROADMAPS FOR THE NEXT GENERATION AI INNOVATIONS [URL:https://mktnews.net/flashDetail.html?id=019979f1-2d72-7cc5-9c78-9255726f119e]
+2. ALIBABA CLOUD: ALIBABA OFFICIALLY RELEASED QWEN3-MAX, ITS LARGEST LARGE-LANGUAGE MODEL WITH OVER 1 TRILLION PARAMETERS [URL:https://mktnews.net/flashDetail.html?id=01997999-3a95-7cc5-9c78-0d22acfa2e1d]
+3. 【Alibaba Advances 380B AI Infrastructure, Alibaba Cloud’s 2032 Energy Use 10x 2022 for ASI Era】Alibaba is actively promoting the construction of 380 billion AI infrastructure and plans to invest more. In order to welcome the arrival of the ASI era, compared with 2022, the first year of GenAI, the energy consumption scale of Alibaba Cloud's global data centers in 2032 will increase by 10 times. This means that the investment in Alibaba Cloud's computing power will increase exponentially. [URL:https://mktnews.net/flashDetail.html?id=01997993-73f5-7cc5-9c77-ffb4a4ec816d]
+4. ALIBABA'S EDDIE WU: QWEN WILL BE THE NEXT ANDROID [URL:https://mktnews.net/flashDetail.html?id=0199798b-a883-7cc5-9c77-d01b89d13241]
+5. TETHER RAISING FUNDS AT A $500B VALUATION, LOOKING FOR $20B IN FUNDING, MAKING IT THE MOST VALUABLE PRIVATE COMPANY IN THE WORLD ALONGSIDE OPENAI [URL:https://mktnews.net/flashDetail.html?id=0199782b-509e-7cc5-9c75-f97699b5929a]
+6. OPENAI AND ORACLE TO ANNOUNCE DATA CENTER EXPANSION IN TEXAS- THE INFORMATION [URL:https://mktnews.net/flashDetail.html?id=019977b9-4d48-7cc5-9c74-53311994e13e]
+
