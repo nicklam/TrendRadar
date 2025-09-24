@@ -1,0 +1,33 @@
+wallstreetcn-hot | 華爾街見聞
+1. 鲍威尔：货币政策面临“双向挑战”，没有毫无风险路径，股市估值“相当高”（附讲稿全文） [URL:https://wallstreetcn.com/articles/3756134]
+2. 鲍威尔称美股估值偏高，三大股指涨势终结，科技股领跌，原油黄金走高 [URL:https://wallstreetcn.com/articles/3756102]
+3. 直击阿里2025云栖大会：将在3800亿基础上追加资本支出，和英伟达达成物理AI合作 [URL:https://wallstreetcn.com/articles/3756158]
+4. 华尔街见闻早餐FM-Radio | 2025年9月24日 [URL:https://wallstreetcn.com/articles/3756136]
+5. 美联储降息路径分歧加剧：鲍曼警告已“落后于形势” ，古尔斯比呼吁谨慎行事 [URL:https://wallstreetcn.com/articles/3756124]
+6. 态度剧变！特朗普称乌克兰边界有望“恢复原状” [URL:https://wallstreetcn.com/articles/3756144]
+7. 云栖大会今开幕，阿里云将展示超大规模集群、分布式训练、推理加速等能力，首次展出高密度AI服务器和高性能网络架构 [URL:https://wallstreetcn.com/articles/3756147]
+8. “崩盘专家”黑天鹅基金：美股将大幅上涨，随后是“1929式崩盘” [URL:https://wallstreetcn.com/articles/3756150]
+9. 人民币可能出现的“结汇潮” [URL:https://wallstreetcn.com/articles/3756153]
+10. 美国9月Markit制造业、服务业PMI回落，但均扩张，价格缓和 [URL:https://wallstreetcn.com/articles/3756128]
+
+cls-hot | 財聯社熱門
+1. 阿里吴泳铭：正在推进三年3800亿AI基建计划，并将会追加更大的投入 [URL:https://www.cls.cn/detail/2154306]
+2. 支持服务出口 9部门发布最新政策措施 [URL:https://www.cls.cn/detail/2154659]
+3. 8部门印发《关于大力发展数字消费共创数字时代美好生活的指导意见》 [URL:https://www.cls.cn/detail/2154748]
+4. 六部门：严禁新增水泥熟料、平板玻璃产能 新建改建项目须制定产能置换方案 [URL:https://www.cls.cn/detail/2154501]
+5. 美光财报会拆解半导体供需：DRAM/NAND库存下降 HBM成增长核心 [URL:https://www.cls.cn/detail/2154342]
+6. 董承非等投资大佬热议：A股慢牛还是过热？ 宁泉：即便有“登味”也要保持谨慎 [URL:https://www.cls.cn/detail/2154337]
+7. 雷军：同时决定造车和重启造芯 押上小米全部家底 [URL:https://www.cls.cn/detail/2154276]
+8. 【数据看盘】北方华创龙虎榜现多空博弈 外资、机构甩卖2连板长川科技 [URL:https://www.cls.cn/detail/2154786]
+9. 【每日收评】创业板指涨超2%再创3年多新高，全市场超4400股飘红，半导体芯片产业链持续火爆 [URL:https://www.cls.cn/detail/2154658]
+10. 多重催化下半导体上游全线爆发 设备、材料环节驱动科创50大涨近5% [URL:https://www.cls.cn/detail/2154331]
+11. 金银牛市继续，一批概念股涨超150%，还有金矿巨头即将上市 [URL:https://www.cls.cn/detail/2154799]
+12. 美股重夺全球“最昂贵”股市桂冠：估值之巅会是危墙之下吗？ [URL:https://www.cls.cn/detail/2154267]
+13. 【焦点复盘】科创50一度涨逾5%创近4年新高，全市场超百股涨逾10%，涨价利好持续引爆芯片股 [URL:https://www.cls.cn/detail/2154749]
+
+mktnews | MKTNews
+1. ALIBABA CLOUD UNVEILS STRATEGIC ROADMAPS FOR THE NEXT GENERATION AI INNOVATIONS [URL:https://mktnews.net/flashDetail.html?id=019979f1-2d72-7cc5-9c78-9255726f119e]
+2. ALIBABA CLOUD: ALIBABA OFFICIALLY RELEASED QWEN3-MAX, ITS LARGEST LARGE-LANGUAGE MODEL WITH OVER 1 TRILLION PARAMETERS [URL:https://mktnews.net/flashDetail.html?id=01997999-3a95-7cc5-9c78-0d22acfa2e1d]
+3. 【Alibaba Advances 380B AI Infrastructure, Alibaba Cloud’s 2032 Energy Use 10x 2022 for ASI Era】Alibaba is actively promoting the construction of 380 billion AI infrastructure and plans to invest more. In order to welcome the arrival of the ASI era, compared with 2022, the first year of GenAI, the energy consumption scale of Alibaba Cloud's global data centers in 2032 will increase by 10 times. This means that the investment in Alibaba Cloud's computing power will increase exponentially. [URL:https://mktnews.net/flashDetail.html?id=01997993-73f5-7cc5-9c77-ffb4a4ec816d]
+4. ALIBABA'S EDDIE WU: QWEN WILL BE THE NEXT ANDROID [URL:https://mktnews.net/flashDetail.html?id=0199798b-a883-7cc5-9c77-d01b89d13241]
+
