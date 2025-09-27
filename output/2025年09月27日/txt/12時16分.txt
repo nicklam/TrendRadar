@@ -1,0 +1,34 @@
+wallstreetcn-hot | 華爾街見聞
+1. 美国通胀符合预期，逢低买盘支撑美股反弹，白银站上46美元，以太坊涨3% [URL:https://wallstreetcn.com/articles/3756334]
+2. 关于投资OpenAI、AI泡沫、ASIC的竞争...黄仁勋回答了这一切 [URL:https://wallstreetcn.com/articles/3756345]
+3. 高盛交易员：比特币“周一闪崩”是个“领先信号” [URL:https://wallstreetcn.com/articles/3756340]
+4. 央行：要落实落细适度宽松的货币政策，用好证券、基金、保险公司互换便利和股票回购增持再贷款 [URL:https://wallstreetcn.com/articles/3756358]
+5. 国产GPU第一股来了！摩尔线程IPO成功过会，半年营收超过往3年！ [URL:https://wallstreetcn.com/articles/3756354]
+6. 中国8月规模以上工业企业利润同比大增20.4%，上月同比下降1.5% [URL:https://wallstreetcn.com/articles/3756385]
+7. 创业板跌超2%，AI硬件、算力股普跌，恒科指跌近3%，小米跌8%，国债反弹，商品分化 [URL:https://wallstreetcn.com/articles/3756319]
+8. 美国8月核心PCE物价指数环比增0.2%符合预期，消费支出连续三个月增长 [URL:https://wallstreetcn.com/articles/3756365]
+9. Peter Schiff：我一直认为刺破比特币泡沫的会是黄金，没想到是白银，“数字币财库公司”面临残酷熊市 [URL:https://wallstreetcn.com/articles/3756333]
+10. 理想纯电i6发布！全系仅一个配置，24.98万元起售 [URL:https://wallstreetcn.com/articles/3756349]
+
+cls-hot | 財聯社熱門
+1. 【早报】央行定调！事关货币政策等；摩尔线程科创板IPO过会 [URL:https://www.cls.cn/detail/2157901]
+2. 违规买卖股票，4名证券从业人员被处罚！一人被罚没1.59亿 [URL:https://www.cls.cn/detail/2157620]
+3. 央行：下阶段建议加强货币政策调控，提高前瞻性、针对性、有效性 [URL:https://www.cls.cn/detail/2157588]
+4. “A股GPU第一股”渐近！摩尔线程科创板IPO今日过会 字节、中移动等算力需求方都投了 [URL:https://www.cls.cn/detail/2157687]
+5. ST板块，跑出一只10倍股 [URL:https://www.cls.cn/detail/2157566]
+6. 美股收盘：三大指数集体收涨 终结三日跌势 特斯拉涨4% [URL:https://www.cls.cn/detail/2157893]
+7. 美国8月PCE通胀悉数符合预期 不改美联储既定降息节奏 [URL:https://www.cls.cn/detail/2157750]
+8. 特朗普新关税引发广泛困惑 英特尔延续强劲涨势 | 今夜看点 [URL:https://www.cls.cn/detail/2157708]
+9. 股价创新高、总市值超2500亿元！赛力斯拟赴港上市 启动“A+H”双资本市场布局 [URL:https://www.cls.cn/detail/2157914]
+10. 特朗普100%药品关税引争议 白宫：不适用于已与美达成贸易协定国家 [URL:https://www.cls.cn/detail/2157912]
+11. 国家统计局：8月份规模以上工业企业利润同比由上月下降1.5%转为增长20.4% [URL:https://www.cls.cn/detail/2157935]
+12. 南向资金追踪｜本周净买入约439亿港元 加仓阿里及腾讯减持华虹半导体 [URL:https://www.cls.cn/detail/2157587]
+13. 特朗普：美国或更换世界杯举办地 [URL:https://www.cls.cn/detail/2157904]
+
+mktnews | MKTNews
+1. 【Vanguard Considers Crypto ETF Access: Crypto Daily Digest】- <b>Vanguard Eyes Crypto ETF Access</b>: Vanguard may allow brokerage clients to access third-party crypto ETFs, reversing its previous stance. No own-product launch yet.<br/>- <b>Regulators Probe Trades</b>: SEC and FINRA investigate unusual stock activity before crypto treasury announcements; over 200 DATs have raised $20B this year.<br/>- <b>SEC Chair Comments</b>: Paul Atkins signals enforcement on crypto conflicts of interest while pursuing a friendlier regulatory approach.<br/>- <b>DeFi Alert</b>: Hypervault vanished after $3.6M suspicious outflows; funds sent to Tornado Cash.<br/>- <b>Market Moves</b>: BTC $109.5K (+0.44%), ETH $4.03K (+4.09%), BTC ETFs outflows -$253M, ETH ETFs -$251M.<br/>- <b>New Projects</b>: Plasma mainnet beta launched with XPL token; Hana Network and Mira listed on multiple exchanges. [URL:https://mktnews.net/flashDetail.html?id=01998783-7fa2-711c-8810-442f1081dea7]
+2. 【Crypto Market Loses $300 Billion as Leveraged Bets Unwind】Cryptocurrencies shed roughly $300 billion this week as leveraged positions unraveled, with over $3 billion in long positions liquidated across perpetual futures, according to Coinglass. Ether fell about 12%, sliding below $4,000, while Bitcoin dropped around 5%, its sharpest weekly decline since March. US-listed Bitcoin and Ether ETFs saw over $500 million in net outflows on Thursday. Corporate treasury Bitcoin purchases plunged 76% from July to September, per CryptoQuant. Paul Howard, senior director at Wincent, called the retreat “a healthy correction,” noting macro pressures may keep prices under pressure. Arthur Azizov, B2 Ventures, said, “Bitcoin’s drop below $109,000 is a sign that the market is overheated and moving into a slowdown phase.” [URL:https://mktnews.net/flashDetail.html?id=0199872b-f1f9-711c-880f-bc6162da381b]
+3. 【Apple Develops Internal ChatGPT-Like App to Test Revamped Siri】Apple has created an internal iPhone app, code-named Veritas, to test features of its overhauled Siri voice assistant slated for release as early as March 2026. The app, designed for employees, allows chatbot-style interactions, saving past conversations and supporting in-app actions like photo editing. It runs on a new system called Linwood, built with large language models from Apple’s Foundation Models team and a third-party provider. Apple is also in talks with Google about integrating Gemini. CEO Tim Cook told staff Apple must win in AI, calling it the company’s biggest transformation in decades. [URL:https://mktnews.net/flashDetail.html?id=01998728-0a10-711c-880f-a6a0712bbe33]
+4. 【Fed’s Bowman urges decisive rate cuts, smaller balance sheet】Fed Vice Chair for Supervision Michelle Bowman said decisive rate cuts are needed to offset labor market fragility, warning risks of being behind the curve. She backed the September 25-bp cut after previously dissenting in July for more easing, and dismissed tariff-driven inflation fears, noting underlying inflation remains near target. Bowman urged focus on supporting jobs over inflation concerns, called for the smallest possible balance sheet with reserves closer to scarce, favored an all-Treasury portfolio skewed to shorter maturities, and suggested selling MBS rather than relying on runoff. [URL:https://mktnews.net/flashDetail.html?id=01998707-de87-711c-880f-1e15811acaa9]
+5. 【SoftBank, Ark in Talks to Invest in Tether Funding Round】SoftBank Group and Ark Investment Management are among potential investors in Tether’s major funding round, seeking $15–20 billion for a roughly 3% stake. The round could value the stablecoin issuer at $500 billion, making it one of the largest private companies globally. Tether, led by CEO Paolo Ardoino and chairman Giancarlo Devasini, serves $173.5 billion in USDT tokens and is advised by Cantor Fitzgerald. [URL:https://mktnews.net/flashDetail.html?id=019986e6-4a13-711c-880e-696ea9d78173]
+
