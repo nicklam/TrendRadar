@@ -1,0 +1,29 @@
+wallstreetcn-hot | 華爾街見聞
+1. DeepSeek大模型V3.2亮相！华为、寒武纪芯片同步适配开源，首次自研DSA注意力机制，API价格砍半 [URL:https://wallstreetcn.com/articles/3756474]
+2. 美国政府关门在即，美股美债共涨，金银铜齐升，美油一度跌4% [URL:https://wallstreetcn.com/articles/3756460]
+3. 华尔街见闻早餐FM-Radio | 2025年9月30日 [URL:https://wallstreetcn.com/articles/3756503]
+4. 特朗普白宫谈判失败，美国政府距离关门“还有一天多”，金价突破3800美元 [URL:https://wallstreetcn.com/articles/3756515]
+5. AH股午后爆发！创业板涨超2%，“牛市旗手”集体大涨，恒科指涨2%，科网股普涨，“双焦”大跌 [URL:https://wallstreetcn.com/articles/3756450]
+6. 深圳半导体新王诞生 [URL:https://wallstreetcn.com/articles/3756473]
+7. DeepSeek突然拥抱国产GPU语言！TileLang对标CUDA替代Triton，华为昇腾Day0官宣支持适配 [URL:https://wallstreetcn.com/articles/3756527]
+8. 美国劳工统计局：一旦发生政府停摆，将暂停所有运转，期间不会发布经济数据 [URL:https://wallstreetcn.com/articles/3756499]
+9. 互联网平台外卖员、快递员等人员年入12万元以下基本无需纳税 [URL:https://wallstreetcn.com/articles/3756490]
+10. 创纪录涨势后，美国黄金储备价值触及1万亿美元 [URL:https://wallstreetcn.com/articles/3756487]
+
+cls-hot | 財聯社熱門
+1. 禁“万1免5”、防低价揽客，券商佣金反内卷传闻刷屏，真相如何？ [URL:https://www.cls.cn/detail/2160172]
+2. 国产AI软硬协同加速：DeepSeek新模型上线 一众芯片厂商官宣Day 0适配 [URL:https://www.cls.cn/detail/2160186]
+3. 投资收益率达8.1% 2024年全国社保基金实现较好保值增值 [URL:https://www.cls.cn/detail/2160099]
+4. 什么信号？AI不再是“唯一宠儿”，华尔街大佬正关注股市这些领域…… [URL:https://www.cls.cn/detail/2160309]
+5. 华为昇腾、寒武纪、海光信息适配DeepSeek最新模型 [URL:https://www.cls.cn/detail/2160149]
+6. 图解9月大事件：美联储降息25个基点 金价迭创历史新高 [URL:https://www.cls.cn/detail/2160432]
+7. 9月30日投资避雷针：20CM三连板人气股提示风险 如股票持续异常波动将申请停牌核查 [URL:https://www.cls.cn/detail/2160126]
+8. 无惧泡沫警告？黄仁勋大胆预测：OpenAI或成为下一个万亿美元巨头！ [URL:https://www.cls.cn/detail/2160132]
+9. 国内钴市迎来爆发式上涨 机构称原料紧缺或使钴价加速上行 [URL:https://www.cls.cn/detail/2160097]
+10. 北京房地产中介协会：倡议不唱衰做空市场、禁止虚假带看及引诱业主低价挂牌等 [URL:https://www.cls.cn/detail/2160457]
+11. DeepSeek-V3.2-Exp发布并开源 国产芯片深度协同有望全面受益 [URL:https://www.cls.cn/detail/2160095]
+12. 美总统特朗普下令10月14日起对进口木材与橱柜加征关税 [URL:https://www.cls.cn/detail/2160162]
+13. 两部门：对国际消费中心试点城市给予资金补助 每个城市合计补助2亿元 [URL:https://www.cls.cn/detail/2160634]
+
+mktnews | MKTNews
+
