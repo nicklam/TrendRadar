@@ -1,0 +1,31 @@
+wallstreetcn-hot | 華爾街見聞
+1. 贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司 [URL:https://wallstreetcn.com/articles/3757385]
+2. 黄金的“疯狂上涨”预示着“更大的事情”正在发生 [URL:https://wallstreetcn.com/articles/3757353]
+3. 银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20% [URL:https://wallstreetcn.com/articles/3757299]
+4. 华尔街见闻早餐FM-Radio | 2025年10月17日 [URL:https://wallstreetcn.com/articles/3757336]
+5. “次贷危机”还是“过度反应”？美国小银行“暴雷”，市场“先卖再说” [URL:https://wallstreetcn.com/articles/3757349]
+6. AH股大调整！沪指跌近2%，全市场超4800只下跌，农业银行逆势创新高，恒科指跌超4%，沪金突破千元大关 [URL:https://wallstreetcn.com/articles/3757363]
+7. 美国区域银行再陷危机，高盛直呼“太疯狂”，这是客户最关心的三个问题！ [URL:https://wallstreetcn.com/articles/3757390]
+8. 寒武纪Q3营收同比暴增13倍，净利润5.7亿元，为连续三个季度盈利 | 财报见闻 [URL:https://wallstreetcn.com/articles/3757395]
+9. 两大领先指标示警，比特币“人心惶惶” [URL:https://wallstreetcn.com/articles/3757355]
+10. AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！ [URL:https://wallstreetcn.com/articles/3757376]
+
+cls-hot | 財聯社熱門
+1. 寒武纪前三季度归母净利润16.05亿元 合同负债Q3消化4.6亿 牛散章建平增持32万股 [URL:https://www.cls.cn/detail/2173161]
+2. 证监会：规范控股股东、实际控制人行为 [URL:https://www.cls.cn/detail/2173217]
+3. 国常会：要提升外贸企业绿色低碳发展能力，推动企业开展绿色设计和生产 [URL:https://www.cls.cn/detail/2173147]
+4. 何卫东、苗华等9人严重违纪违法被开除党籍军籍 [URL:https://www.cls.cn/detail/2172907]
+5. 两融开户持续创新高！9月新开20.54万户，活跃投资者占比仍处低位 [URL:https://www.cls.cn/detail/2172915]
+6. 西湖大学及施一公回应“杨振宁逝世传闻”：尚未收到官方消息，不要以讹传讹 [URL:https://www.cls.cn/detail/2173058]
+7. 财政部等三部门：11月1日起纳税人销售自产的利用海上风力生产的电力产品 增值税即征即退50% [URL:https://www.cls.cn/detail/2173193]
+8. 【焦点复盘】沪指跌近2%失守30日均线，全市场超630股跌逾5%，寒潮概念股获逆势抱团 [URL:https://www.cls.cn/detail/2172883]
+9. 9月证券交易印花税同比增长342% [URL:https://www.cls.cn/detail/2172957]
+10. 美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点 [URL:https://www.cls.cn/detail/2173194]
+11. 【数据看盘】多路资金近11亿甩卖中兴通讯 IM期指空头大幅加仓 [URL:https://www.cls.cn/detail/2172942]
+12. 寒武纪：前三季度净利润16亿元，营收大增23倍 [URL:https://www.cls.cn/detail/2173116]
+13. 黄金系ETF领涨市场！商品型表现更优，融资客继续重仓，部分品种溢价急升 [URL:https://www.cls.cn/detail/2172948]
+
+mktnews | MKTNews
+1. 【Nvidia, TSMC Produce First U.S.-Made Blackwell Chip Wafer】Nvidia and TSMC announced the first U.S.-produced wafer for Blackwell AI chips at TSMC’s Phoenix facility, marking a key step in domestic AI semiconductor production. Nvidia CEO Jensen Huang visited the site to unveil the milestone. The companies said TSMC Arizona will generate thousands of high-tech jobs and attract suppliers. While the wafer advances U.S. chip production, dependence on overseas manufacturing remains, and broader domestic supply chain development is ongoing. [URL:https://mktnews.net/flashDetail.html?id=0199f3c1-b9cb-7221-a5f1-720a9148c559]
+2. 【Oracle Shares Fall 7% as Analysts Question AI Revenue Targets】Oracle shares dropped 7% after outlining ambitious AI and cloud growth projections, including $20 billion in AI revenue and $166 billion in cloud infrastructure revenue by fiscal 2030. RBC Capital Markets analyst Rishi Jaluria said the stock “may take a bit of a breather here as investors digest those numbers and try to get comfort around the achievability of long-term numbers,” recommending a Hold. UBS analyst Karl Keirstead raised his price target to $380 from $360, noting the stock “doesn’t reflect the entire upside of the company’s AI-powered acceleration,” while highlighting risks including “the risk of concentrating business with OpenAI and various unforeseen go-live bottlenecks.” Oracle confirmed multiple AI deals, including with Meta, beyond OpenAI. [URL:https://mktnews.net/flashDetail.html?id=0199f3b0-26b7-7221-a5f1-4e61082d01f8]
+
