@@ -1,0 +1,30 @@
+wallstreetcn-hot | 華爾街見聞
+1. 美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫 [URL:https://wallstreetcn.com/articles/3757563]
+2. 华尔街见闻早餐FM-Radio | 2025年10月21日 [URL:https://wallstreetcn.com/articles/3757518]
+3. DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子 [URL:https://wallstreetcn.com/articles/3757552]
+4. 美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元 [URL:https://wallstreetcn.com/articles/3757466]
+5. DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源” [URL:https://wallstreetcn.com/articles/3757530]
+6. 学习时报刊文：努力稳股市让老百姓的消费底气更足 [URL:https://wallstreetcn.com/articles/3757540]
+7. 苹果股价今年首创新高！iPhone 17热卖引爆换机潮 [URL:https://wallstreetcn.com/articles/3757523]
+8. 俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火” [URL:https://wallstreetcn.com/articles/3757574]
+9. AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道” [URL:https://wallstreetcn.com/articles/3757557]
+10. 四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代 [URL:https://wallstreetcn.com/articles/3757529]
+
+cls-hot | 財聯社熱門
+1. 特朗普称将于明年初访问中国 外交部回应 [URL:https://www.cls.cn/detail/2175678]
+2. 多名欧洲领导人：应以俄乌当前战线为谈判起点 [URL:https://www.cls.cn/detail/2176017]
+3. 广东：支持工业智能算力应用 培育工业软件和智能装备 [URL:https://www.cls.cn/detail/2175764]
+4. 美威胁对华断供飞机零部件，外交部：贸易战不符合任何一方利益 [URL:https://www.cls.cn/detail/2175686]
+5. 美国针对中国合作方出台签证限制 外交部回应 [URL:https://www.cls.cn/detail/2175714]
+6. 8天股价翻倍！“连板牛”引游资抢筹，活跃资金动作频频，这些席位热度领跑 [URL:https://www.cls.cn/detail/2175877]
+7. 【数据看盘】机构、一线游资活跃度连续两日下降 IC期指空头大幅加仓 [URL:https://www.cls.cn/detail/2175894]
+8. 降字当先！又一波通知存款调整潮，多家中小银行取消自动转存，能否助推“存款搬家”？ [URL:https://www.cls.cn/detail/2175708]
+9. 【每日收评】沪指重返3900点！全市场超4600股收红，深地经济、算力硬件方向双双领涨 [URL:https://www.cls.cn/detail/2175796]
+10. 美国与澳大利亚签署关键矿产协议，外交部表态 [URL:https://www.cls.cn/detail/2175669]
+11. 【焦点复盘】TMT产业链强势做多，创业板指大涨超3%，国企改革概念异军突起 [URL:https://www.cls.cn/detail/2175857]
+12. 日本迎来首位女首相：“安倍经济学”幻影与“早苗时代”新押注 [URL:https://www.cls.cn/detail/2175794]
+13. 产量激增1.2倍！机器人核心部件国产化高歌猛进 [URL:https://www.cls.cn/detail/2175766]
+
+mktnews | MKTNews
+1. 【OpenAI Set to Launch Browser Product, Alphabet Shares Drop 4%】OpenAI teased a product launch scheduled for 10 a.m. PT Tuesday, widely expected to be an AI-powered web browser. The announcement sent Alphabet shares down 4%. CEO Sam Altman expressed excitement about the new product. The launch would position OpenAI against Google Chrome and Perplexity's Comet browser. Google integrated its Gemini AI model into Chrome in September, while Perplexity released its free AI browser worldwide this month. [URL:https://mktnews.net/flashDetail.html?id=019a079a-5d52-7221-a60d-6e9abb04c657]
+
