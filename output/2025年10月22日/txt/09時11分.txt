@@ -1,0 +1,33 @@
+wallstreetcn-hot | 華爾街見聞
+1. 美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升 [URL:https://wallstreetcn.com/articles/3757563]
+2. DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子 [URL:https://wallstreetcn.com/articles/3757552]
+3. 金银多年来罕见暴跌！盘中黄金跌超6%、白银跌近9%，“所有目光聚焦沪金开盘” [URL:https://wallstreetcn.com/articles/3757589]
+4. 华尔街见闻早餐FM-Radio | 2025年10月22日 [URL:https://wallstreetcn.com/articles/3757599]
+5. 学习时报刊文：努力稳股市让老百姓的消费底气更足 [URL:https://wallstreetcn.com/articles/3757540]
+6. 俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火” [URL:https://wallstreetcn.com/articles/3757574]
+7. AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道” [URL:https://wallstreetcn.com/articles/3757557]
+8. 四季度买银行股？大摩：首次无大规模刺激的“自然周期性触底”，中国银行业进入新时代 [URL:https://wallstreetcn.com/articles/3757529]
+9. 创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化 [URL:https://wallstreetcn.com/articles/3757538]
+10. 达利欧复制了“AI达利欧”：谈论投资时“有本人80%的效果” [URL:https://wallstreetcn.com/articles/3757536]
+
+cls-hot | 財聯社熱門
+1. 【早报】深夜急跌！黄金一度创12年来最大单日跌幅；特朗普称将于明年初访问中国，外交部回应 [URL:https://www.cls.cn/detail/2176371]
+2. 美股收盘：三大指数涨跌不一 道指创历史新高 [URL:https://www.cls.cn/detail/2176345]
+3. 多名欧洲领导人：应以俄乌当前战线为谈判起点 [URL:https://www.cls.cn/detail/2176017]
+4. 俄外长：“立即停火”违背此前达成的共识，必须解决冲突的根源 [URL:https://www.cls.cn/detail/2176275]
+5. 徐翔案资产处置持续推进 金帝2.7亿竞得宁波中百8.42%股权 [URL:https://www.cls.cn/detail/2176173]
+6. 格力房产“易主”背后 珠免集团剥离78亿地产包袱 [URL:https://www.cls.cn/detail/2176249]
+7. OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争 [URL:https://www.cls.cn/detail/2176315]
+8. 商务部召开政策解读专场外资企业圆桌会 [URL:https://www.cls.cn/detail/2176053]
+9. 现货金价剧烈回调一度跌超5% 避险情绪降温投机多头遭反噬 [URL:https://www.cls.cn/detail/2176255]
+10. 欧洲领导人发表联合声明 支持通过谈判推动俄乌停火 [URL:https://www.cls.cn/detail/2176398]
+11. 黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点 [URL:https://www.cls.cn/detail/2176123]
+12. 泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场 [URL:https://www.cls.cn/detail/2176367]
+13. 7000mAh渐成标配 大容量手机电池加速渗透背后：厂商正卡位机器人、低空经济等风口 [URL:https://www.cls.cn/detail/2176169]
+
+mktnews | MKTNews
+1. 【Apple's $3,000 Foldable iPad Faces Delays to 2029】Apple's planned 18-inch foldable iPad has encountered development challenges, pushing its launch from 2028 to 2029 or later. The company is working with Samsung Display on the roughly $3,000 device, code-named J312. Engineering hurdles include weight concerns—prototypes weigh 3.5 pounds versus 1-1.3 pounds for current iPad Pros—and display technology complexity. The aluminum-encased tablet would resemble a laptop when closed and lack an external display. [URL:https://mktnews.net/flashDetail.html?id=019a0807-90e8-7221-a60f-d17d5412ce52]
+2. 【OpenAI Launches ChatGPT Atlas Browser with Enhanced Privacy Controls】OpenAI released ChatGPT Atlas browser with comprehensive data controls and privacy features. Users can manage web browsing data, control model training permissions, delete browsing history, and use incognito mode. The browser includes "Browser memories" that save personalized insights without storing full page content. Settings allow users to exclude specific pages from ChatGPT visibility and manage shared links. Business and Enterprise content isn't used for training. [URL:https://mktnews.net/flashDetail.html?id=019a07d0-5df6-7221-a60e-c1add58f51cb]
+3. 【OpenAI Set to Launch Browser Product, Alphabet Shares Drop 4%】OpenAI teased a product launch scheduled for 10 a.m. PT Tuesday, widely expected to be an AI-powered web browser. The announcement sent Alphabet shares down 4%. CEO Sam Altman expressed excitement about the new product. The launch would position OpenAI against Google Chrome and Perplexity's Comet browser. Google integrated its Gemini AI model into Chrome in September, while Perplexity released its free AI browser worldwide this month. [URL:https://mktnews.net/flashDetail.html?id=019a079a-5d52-7221-a60d-6e9abb04c657]
+4. 【Amazon Plans to Cut 600,000 Jobs Through Automation by 2033】Internal documents reveal Amazon aims to automate 75% of operations, avoiding 600,000 hires by 2033 while doubling sales. The company expects to save $12.6 billion from 2025-2027 through robotics. Its Shreveport facility model, using 1,000 robots and 50% fewer workers, will expand to 40 locations by 2027. Amazon currently employs 1.2 million U.S. workers and operates one million robots globally. [URL:https://mktnews.net/flashDetail.html?id=019a0795-8ddd-7221-a60d-4c7f3bd72497]
+
