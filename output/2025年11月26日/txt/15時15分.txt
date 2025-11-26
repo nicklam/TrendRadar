@@ -1,0 +1,29 @@
+wallstreetcn-hot | 華爾街見聞
+1. 阿里巴巴Q3营收同比增长4.8%，云业务收入激增34%，即时零售强劲增长60% | 财报见闻 [URL:https://wallstreetcn.com/articles/3760096]
+2. 宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4% [URL:https://wallstreetcn.com/articles/3760086]
+3. 阿里电话会：千问有望成未来AI生活入口，预计闪购Q4投入显著收缩，3800亿资本开支可能偏小 [URL:https://wallstreetcn.com/articles/3760106]
+4. 华尔街见闻早餐FM-Radio | 2025年11月26日 [URL:https://wallstreetcn.com/articles/3760121]
+5. 华为发布会直击：Mate 80系列4699元起、首搭载鸿蒙6系统，折叠屏Mate X7系列价格12999元起 [URL:https://wallstreetcn.com/articles/3760080]
+6. 英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代 [URL:https://wallstreetcn.com/articles/3760117]
+7. 性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力” [URL:https://wallstreetcn.com/articles/3760076]
+8. 一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络 [URL:https://wallstreetcn.com/articles/3760084]
+9. 国际油价短线下挫，报道：美国官员称乌克兰已同意和平协议条款 [URL:https://wallstreetcn.com/articles/3760103]
+10. 马斯克开始用Grok替代员工了！最惨部门裁员90% [URL:https://wallstreetcn.com/articles/3760101]
+
+cls-hot | 財聯社熱門
+1. 【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好 [URL:https://www.cls.cn/detail/2210938]
+2. 美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元 [URL:https://www.cls.cn/detail/2210921]
+3. 谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代 [URL:https://www.cls.cn/detail/2210906]
+4. 公私募抢上车摩尔线程！初配名单揭晓，谁抢到了最多筹码？ [URL:https://www.cls.cn/detail/2211017]
+5. 俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！ [URL:https://www.cls.cn/detail/2210988]
+6. 日本宣布在敏感区域部署导弹，国台办回应：这一动向极其危险 [URL:https://www.cls.cn/detail/2211142]
+7. 广东：探索将并购重组、资产盘活等纳入国企考核体系 提高资产证券化水平 [URL:https://www.cls.cn/detail/2211100]
+8. 美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席 [URL:https://www.cls.cn/detail/2210885]
+9. 北京“十五五”规划：培育第六代移动通信、量子科技、生物制造、脑机接口等新增长点 [URL:https://www.cls.cn/detail/2210958]
+10. AI争霸格局突变？五大“东风”将谷歌送上王座！ [URL:https://www.cls.cn/detail/2211188]
+11. 11月26日投资避雷针：12天8板人气股收上交所问询函 要求披露是否存在内幕交易 [URL:https://www.cls.cn/detail/2210987]
+12. 99元能买量化系统？直播间又上戏码，是财富密码还是收割陷阱？ [URL:https://www.cls.cn/detail/2211220]
+13. 特朗普：俄乌和平协议已“非常接近达成” [URL:https://www.cls.cn/detail/2210903]
+
+mktnews | MKTNews
+
