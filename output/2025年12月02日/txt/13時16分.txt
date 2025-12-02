@@ -1,0 +1,29 @@
+wallstreetcn-hot | 華爾街見聞
+1. 日本央行加息预期飙升，加密货币大跌，标普连涨终结，中概股逆市上涨，铜银钴走强 [URL:https://wallstreetcn.com/articles/3760444]
+2. 华尔街见闻早餐FM-Radio | 2025年12月2日 [URL:https://wallstreetcn.com/articles/3760487]
+3. 开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？ [URL:https://wallstreetcn.com/articles/3760468]
+4. 日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后 [URL:https://wallstreetcn.com/articles/3760425]
+5. DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5 [URL:https://wallstreetcn.com/articles/3760461]
+6. 孙正义称他“哭着”清仓英伟达：若非需要资金 原本一股也不会卖 [URL:https://wallstreetcn.com/articles/3760464]
+7. 央行“轮流砸盘”，美联储砸完日央行砸！日本12月会加息吗？ [URL:https://wallstreetcn.com/articles/3760495]
+8. 大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元 [URL:https://wallstreetcn.com/articles/3760440]
+9. 英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环 [URL:https://wallstreetcn.com/articles/3760479]
+10. 美国11月ISM制造业PMI萎缩幅度创四个月最大，就业进一步收缩，价格涨 [URL:https://wallstreetcn.com/articles/3760475]
+
+cls-hot | 財聯社熱門
+1. 【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型 [URL:https://www.cls.cn/detail/2216499]
+2. 美股收盘：三大指数“五连阳”戛然而止 中国资产逆势走强 [URL:https://www.cls.cn/detail/2216490]
+3. 支持台胞开设沙县小吃门店等 福建发布12条惠台政策措施 [URL:https://www.cls.cn/detail/2216852]
+4. 蓝佛安：发挥积极财政政策作用 [URL:https://www.cls.cn/detail/2216509]
+5. 严正批驳日方！中方再次致函古特雷斯，向全体会员国散发 [URL:https://www.cls.cn/detail/2216531]
+6. 剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块 [URL:https://www.cls.cn/detail/2216587]
+7. 日媒：日本经团联、议员团接连请求访华 [URL:https://www.cls.cn/detail/2216625]
+8. “让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机 [URL:https://www.cls.cn/detail/2216608]
+9. AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用 [URL:https://www.cls.cn/detail/2216806]
+10. 创新药BD已占全球半壁 人均支出却仅为美国 1/124：中国药企如何赶超礼来万亿之路？ [URL:https://www.cls.cn/detail/2216588]
+11. 12月2日投资避雷针：五连板ST股收到终止上市决定 最后交易日期为12月29日 [URL:https://www.cls.cn/detail/2216552]
+12. AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链 [URL:https://www.cls.cn/detail/2216759]
+13. 苹果更换AI主管 白银年内涨幅突破100% | 环球市场 [URL:https://www.cls.cn/detail/2216521]
+
+mktnews | MKTNews
+
